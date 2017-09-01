@@ -1,0 +1,4303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>index</key>
+		<string>a</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>400-610-0400</string>
+				<key>logoMd5</key>
+				<string>61f03b20634f338534a085b1fb3421f9</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>AAE全球专递</string>
+				<key>number</key>
+				<string>aae</string>
+				<key>queryUrl</key>
+				<string>http://cn.aaeweb.com/track/</string>
+				<key>reg</key>
+				<string>^[0-9]{9,10}$</string>
+				<key>regInfo</key>
+				<string>AAE-中国单号是由9位或10位纯数字组成，常以10*、86*开头</string>
+				<key>shortName</key>
+				<string>AAE</string>
+				<key>testNum</key>
+				<string>8636571963</string>
+				<key>url</key>
+				<string>http://cn.aaeweb.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>+93 20 2104075</string>
+				<key>logoMd5</key>
+				<string>3c0de2f89d3fe9ebb3a55d03263f2714</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>Afghan Post</string>
+				<key>number</key>
+				<string>afghan</string>
+				<key>queryUrl</key>
+				<string>http://track.afghanpost.gov.af/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>阿富汗邮政</string>
+				<key>testNum</key>
+				<string>CP858622080HK</string>
+				<key>url</key>
+				<string>http://track.afghanpost.gov.af/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-104-0088</string>
+				<key>logoMd5</key>
+				<string>9e8b3441227851e0943368894bda8eb1</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>安能物流</string>
+				<key>number</key>
+				<string>annengwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.ane56.com/AneQuery.aspx</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>安能</string>
+				<key>testNum</key>
+				<string>100062102705</string>
+				<key>url</key>
+				<string>http://www.ane56.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>01-7057600 </string>
+				<key>logoMd5</key>
+				<string>4c09e301543b4a4ff829ab4a92fb805d</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>An Post</string>
+				<key>number</key>
+				<string>anposten</string>
+				<key>queryUrl</key>
+				<string>http://www.anpost.ie/AnPost/Mobile/Home.htm</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>爱尔兰邮政</string>
+				<key>testNum</key>
+				<string>CB006606235IE</string>
+				<key>url</key>
+				<string>http://www.anpost.ie/AnPost/ </string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>010-59288730</string>
+				<key>logoMd5</key>
+				<string>f7575f062b2aa80ab8257713200f7357</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>安迅物流</string>
+				<key>number</key>
+				<string>anxl</string>
+				<key>queryUrl</key>
+				<string>http://www.anxl.com.cn/express.action</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>安迅</string>
+				<key>testNum</key>
+				<string>115050861001338401</string>
+				<key>url</key>
+				<string>http://www.anxl.com.cn/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>4006318388</string>
+				<key>logoMd5</key>
+				<string>8217dd609e5ac62494e701cf325e36fe</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>Aramex</string>
+				<key>number</key>
+				<string>aramex</string>
+				<key>queryUrl</key>
+				<string>http://www.aramex.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>Aramex</string>
+				<key>testNum</key>
+				<string>30109518062</string>
+				<key>url</key>
+				<string>http://www.aramex.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>+1 610 461 3661</string>
+				<key>logoMd5</key>
+				<string>366473face43c85977f6cffbedb59af1</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>Asendia USA</string>
+				<key>number</key>
+				<string>asendiausa</string>
+				<key>queryUrl</key>
+				<string>http://www.asendiausa.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>Asendia USA</string>
+				<key>testNum</key>
+				<string>LNSM-SD-10009971</string>
+				<key>url</key>
+				<string>http://www.asendiausa.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>0061-3-88479045</string>
+				<key>logoMd5</key>
+				<string>001f0a844ac61c7d0994d8455e7fb76a</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>Australia Post</string>
+				<key>number</key>
+				<string>auspost</string>
+				<key>queryUrl</key>
+				<string>https://m.auspost.com.au</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>澳洲邮政</string>
+				<key>testNum</key>
+				<string>LK405089195AU</string>
+				<key>url</key>
+				<string>http://auspost.com.au</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>b</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>400-706-0609</string>
+				<key>logoMd5</key>
+				<string>ebb6a25fa49f8735482a2de440578042</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>百福东方</string>
+				<key>number</key>
+				<string>baifudongfang</string>
+				<key>queryUrl</key>
+				<string>http://www.ees.com.cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>百福东方单号一般是由9位数字组成,常以10开头</string>
+				<key>shortName</key>
+				<string>百福东方</string>
+				<key>testNum</key>
+				<string>109969192</string>
+				<key>url</key>
+				<string>http://www.ees.com.cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-8856-561</string>
+				<key>logoMd5</key>
+				<string>d80455c9199133ac7cbf0e3f41657e70</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>百世物流</string>
+				<key>number</key>
+				<string>baishiwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.800best.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>百世物流</string>
+				<key>testNum</key>
+				<string>10068850761</string>
+				<key>url</key>
+				<string>http://www.800best.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-885-6561</string>
+				<key>logoMd5</key>
+				<string>d8276448e39242cef0c028fd88149cca</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>巴伦支</string>
+				<key>number</key>
+				<string>balunzhi</string>
+				<key>queryUrl</key>
+				<string>http://www.cnbd.name/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>巴伦支</string>
+				<key>testNum</key>
+				<string>023001510750</string>
+				<key>url</key>
+				<string>http://cnbd.hendari.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>9558006</string>
+				<key>logoMd5</key>
+				<string>f0df807591ae1911d8681642c61037bf</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>Bangladesh Post</string>
+				<key>number</key>
+				<string>bangladesh</string>
+				<key>queryUrl</key>
+				<string>www.bangladeshpost.gov.bd</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>孟加拉国 EMS</string>
+				<key>testNum</key>
+				<string>EA018481807AU</string>
+				<key>url</key>
+				<string>www.bangladeshpost.gov.b</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>+375 17 293 59 10</string>
+				<key>logoMd5</key>
+				<string>01651b8ef6d014d4e8db10387b4eb34c</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>Belpochta EMS</string>
+				<key>number</key>
+				<string>belpost</string>
+				<key>queryUrl</key>
+				<string>http://search.belpost.by/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>白俄罗斯 EMS </string>
+				<key>testNum</key>
+				<string>CP045759207BY</string>
+				<key>url</key>
+				<string>http://www.belpost.by/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>010-58633508</string>
+				<key>logoMd5</key>
+				<string>612e4689f3867fe6178ab8e61267fa18</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>BHT快递</string>
+				<key>number</key>
+				<string>bht</string>
+				<key>queryUrl</key>
+				<string>http://www.bht-exp.com/iDoc.asp?docID=257</string>
+				<key>reg</key>
+				<string>^[A-Za-z0-9]{8,11}$</string>
+				<key>regInfo</key>
+				<string>常见的BHT单号由BHT+开头8位数字或者8位纯数字组成</string>
+				<key>shortName</key>
+				<string>BHT</string>
+				<key>testNum</key>
+				<string>1285539849</string>
+				<key>url</key>
+				<string>http://www.bht-exp.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>010-8417 9386</string>
+				<key>logoMd5</key>
+				<string>38eeb336e6ba73a1813b6d15e28d4e59</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>北京EMS</string>
+				<key>number</key>
+				<string>bjemstckj</string>
+				<key>queryUrl</key>
+				<string>http://www.bj-cnpl.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>北京EMS</string>
+				<key>testNum</key>
+				<string></string>
+				<key>url</key>
+				<string>http://www.bj-cnpl.com/webpage/contactus.asp</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>+32 (0)2 278 50 90</string>
+				<key>logoMd5</key>
+				<string>d558f5d7d11e3ca3b11382e28bb313b7</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>bpost</string>
+				<key>number</key>
+				<string>bpost</string>
+				<key>queryUrl</key>
+				<string>http://www.bpostinternational.com/en/index.html</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>比利时邮政</string>
+				<key>testNum</key>
+				<string>30100816400000000454210145</string>
+				<key>url</key>
+				<string>http://www.bpostinternational.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>0755-2222 2232</string>
+				<key>logoMd5</key>
+				<string>293f63add578d5277491106b90b5d3b2</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>百千诚物流</string>
+				<key>number</key>
+				<string>bqcwl</string>
+				<key>queryUrl</key>
+				<string>http://www.1001000.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>百千诚</string>
+				<key>testNum</key>
+				<string>SO1409110005-01</string>
+				<key>url</key>
+				<string>WWW.1001000.COM</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>+55 61 3003 0100</string>
+				<key>logoMd5</key>
+				<string>0c70e22af4e7ea1ebae5af20829ee9bc</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>Brazil Post</string>
+				<key>number</key>
+				<string>brazilposten</string>
+				<key>queryUrl</key>
+				<string>http://m.correios.com.br/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>巴西邮政</string>
+				<key>testNum</key>
+				<string>CP295332010BR</string>
+				<key>url</key>
+				<string>http://www.correios.com.br/ </string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>15834177000</string>
+				<key>logoMd5</key>
+				<string>a8c3df794ea0573b74c20c442027d947</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>博源恒通</string>
+				<key>number</key>
+				<string>byht</string>
+				<key>queryUrl</key>
+				<string>http://www.56soft.com.cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>博源恒通</string>
+				<key>testNum</key>
+				<string>BT0000232370</string>
+				<key>url</key>
+				<string>www.56soft.com.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>c</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>416-979-8822</string>
+				<key>logoMd5</key>
+				<string>ee5d00bf251f8bd5bd2e4702cdcd3d92</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>Canada Post</string>
+				<key>number</key>
+				<string>canpost</string>
+				<key>queryUrl</key>
+				<string>http://www.canadapost.ca/cpotools/apps/track/personal/findByTrackNumber</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>加拿大邮政</string>
+				<key>testNum</key>
+				<string>EA022341678NL</string>
+				<key>url</key>
+				<string>http://www.canadapost.ca</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>4000-523-525 </string>
+				<key>logoMd5</key>
+				<string>c5d1473a84ad83bb24304c7bc7ff9607</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>城际速递</string>
+				<key>number</key>
+				<string>chengjisudi</string>
+				<key>queryUrl</key>
+				<string>http://chengji-express.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>城际</string>
+				<key>testNum</key>
+				<string>V000000039740</string>
+				<key>url</key>
+				<string>http://chengji-express.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>18062512813/18062699168</string>
+				<key>logoMd5</key>
+				<string>f2c8d37541c81fb28a312590554ac8b1</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>同舟行物流</string>
+				<key>number</key>
+				<string>chinatzx</string>
+				<key>queryUrl</key>
+				<string>http://www.chinatzx.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>同舟行</string>
+				<key>testNum</key>
+				<string>00019331</string>
+				<key>url</key>
+				<string>http://www.chinatzx.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>4006-988-223</string>
+				<key>logoMd5</key>
+				<string>864385353e091f8ae22e5c5b3f10c401</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>出口易</string>
+				<key>number</key>
+				<string>chukou1</string>
+				<key>queryUrl</key>
+				<string>http://www.chukou1.com</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>出口易</string>
+				<key>testNum</key>
+				<string>NLR150108GKE000001</string>
+				<key>url</key>
+				<string>http://www.chukou1.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>603-5565 8399</string>
+				<key>logoMd5</key>
+				<string>6b6211f30a879fe127b4e67e86437367</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>City-Link </string>
+				<key>number</key>
+				<string>citylink</string>
+				<key>queryUrl</key>
+				<string>http://www.citylinkexpress.com/tracking.html</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>City-Link</string>
+				<key>testNum</key>
+				<string>060301239031203</string>
+				<key>url</key>
+				<string>http://www.citylinkexpress.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>0755-83575000</string>
+				<key>logoMd5</key>
+				<string>efca6318cbbb5d69a82540848318300a</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>COE</string>
+				<key>number</key>
+				<string>coe</string>
+				<key>queryUrl</key>
+				<string>http://www.coe.com.hk/bill.asp?action=bill</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>COE单号由10、12位数字组成,常见以区号+8位数字或66+10为数字</string>
+				<key>shortName</key>
+				<string>COE</string>
+				<key>testNum</key>
+				<string>610004404886</string>
+				<key>url</key>
+				<string>http://www.coe.com.hk</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>d</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>400-626-1166</string>
+				<key>logoMd5</key>
+				<string>99872537c3c74bc06d46f257b38c4422</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>大田物流</string>
+				<key>number</key>
+				<string>datianwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.dtw.com.cn/waybill.jsp</string>
+				<key>reg</key>
+				<string>^[A-Za-z0-9]{8,20}$</string>
+				<key>regInfo</key>
+				<string>大田物流单号一般是由以6*开头10位纯数字组成</string>
+				<key>shortName</key>
+				<string>大田</string>
+				<key>testNum</key>
+				<string>6137293776</string>
+				<key>url</key>
+				<string>http://www.dtw.com.cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-820-0088</string>
+				<key>logoMd5</key>
+				<string>8dc9481ff6517070e7f7a6f664199755</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>大洋物流</string>
+				<key>number</key>
+				<string>dayangwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.dayang365.cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>大洋</string>
+				<key>testNum</key>
+				<string>MQF00024869732</string>
+				<key>url</key>
+				<string>http://www.dayang365.cn/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>95353</string>
+				<key>logoMd5</key>
+				<string>8eb1e99b046a22eda821a27b81f50db8</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>德邦</string>
+				<key>number</key>
+				<string>debangwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.deppon.com/zhuizong/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>德邦的货运单号现在是以1或2开头的8位数字组成</string>
+				<key>shortName</key>
+				<string>德邦</string>
+				<key>testNum</key>
+				<string>5012899587</string>
+				<key>url</key>
+				<string>http://www.deppon.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>4006-989-833</string>
+				<key>logoMd5</key>
+				<string>f6750e95a6977e8fc964f84654a4e8f7</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>德创物流</string>
+				<key>number</key>
+				<string>dechuangwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.dc56.cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>单号一般由8位数字组成</string>
+				<key>shortName</key>
+				<string>德创</string>
+				<key>testNum</key>
+				<string>496750</string>
+				<key>url</key>
+				<string>http://www.dc56.cn/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400 700 7049</string>
+				<key>logoMd5</key>
+				<string>cc27ea20e41f575c91ee5e629891ffd3</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>达方物流</string>
+				<key>number</key>
+				<string>dfpost</string>
+				<key>queryUrl</key>
+				<string>http://www.dfpost.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>达方</string>
+				<key>testNum</key>
+				<string></string>
+				<key>url</key>
+				<string>http://www.dfpost.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>800-810-8000</string>
+				<key>logoMd5</key>
+				<string>d73aeeda986dc27634a32570fd7e9c6f</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>DHL(中国)</string>
+				<key>number</key>
+				<string>dhl</string>
+				<key>queryUrl</key>
+				<string>http://www.cn.dhl.com/zh/express/tracking.html</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>dhl快递单号由10位或12位纯数字组成</string>
+				<key>shortName</key>
+				<string>DHL</string>
+				<key>testNum</key>
+				<string>3157474224</string>
+				<key>url</key>
+				<string>http://www.cn.dhl.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>+49 (0) 180 5 345300-1*</string>
+				<key>logoMd5</key>
+				<string>d73aeeda986dc27634a32570fd7e9c6f</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>DHL(德国)</string>
+				<key>number</key>
+				<string>dhlde</string>
+				<key>queryUrl</key>
+				<string>http://www.dhl.de/en.html</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>DHL-德国快递单号一般有12位数字组成</string>
+				<key>shortName</key>
+				<string>DHL</string>
+				<key>testNum</key>
+				<string>435540115413</string>
+				<key>url</key>
+				<string>http://www.dhl.de/en.html</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-092-2229</string>
+				<key>logoMd5</key>
+				<string>04ab1a085caf12349f01f5f57644d066</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>东瀚物流</string>
+				<key>number</key>
+				<string>donghanwl</string>
+				<key>queryUrl</key>
+				<string>http://www.donghanwl.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>东瀚物流</string>
+				<key>testNum</key>
+				<string>DH0000100089</string>
+				<key>url</key>
+				<string>http://www.donghanwl.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>021-64659883</string>
+				<key>logoMd5</key>
+				<string>a4757dab583ee687a912408825513c72</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>DPEX</string>
+				<key>number</key>
+				<string>dpex</string>
+				<key>queryUrl</key>
+				<string></string>
+				<key>reg</key>
+				<string>^[A-Za-z0-9]{8,20}$</string>
+				<key>regInfo</key>
+				<string>DPEX快递查询单号通常以5开头，由12位数字组成，部分dpex国际快递有13位数</string>
+				<key>shortName</key>
+				<string>DPEX</string>
+				<key>testNum</key>
+				<string>556015845976</string>
+				<key>url</key>
+				<string>http://www.szdpex.com.cn/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>0531-88636363</string>
+				<key>logoMd5</key>
+				<string>c9e83400afa15e65a7f6126a52e0e88c</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>D速物流</string>
+				<key>number</key>
+				<string>dsukuaidi</string>
+				<key>queryUrl</key>
+				<string>http://www.d-exp.cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>常见的单号以DS开头+9位纯数字+CN结尾共13位</string>
+				<key>shortName</key>
+				<string>D速</string>
+				<key>testNum</key>
+				<string>316J074253086</string>
+				<key>url</key>
+				<string>http://www.d-exp.cn</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>e</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>86+(400) 086-1756</string>
+				<key>logoMd5</key>
+				<string>97c969258bdfc22511e0a30658a02c4d</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>易客满</string>
+				<key>number</key>
+				<string>ecmscn</string>
+				<key>queryUrl</key>
+				<string>http://www.trans4e.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>易客满</string>
+				<key>testNum</key>
+				<string>APECHI1200044696</string>
+				<key>url</key>
+				<string>http://www.trans4e.com/cn/index.html</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>11183</string>
+				<key>logoMd5</key>
+				<string>8a0e663dcd9fd2fcd6d0f60fa95b84cf</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>EMS</string>
+				<key>number</key>
+				<string>ems</string>
+				<key>queryUrl</key>
+				<string>http://www.ems.com.cn/mailtracking/you_jian_cha_xun.html</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>13位纯数字或者开头和结尾各2位字母中间9位数字</string>
+				<key>shortName</key>
+				<string>EMS</string>
+				<key>testNum</key>
+				<string>1112473498405</string>
+				<key>url</key>
+				<string>http://www.ems.com.cn/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>11183</string>
+				<key>logoMd5</key>
+				<string>e8748a210af2e7eb42ac7545bc5ef7cd</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>EMS国际件</string>
+				<key>number</key>
+				<string>emsguoji</string>
+				<key>queryUrl</key>
+				<string>http://www.ems.com.cn/mailtracking/you_jian_cha_xun.html</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>EMS</string>
+				<key>testNum</key>
+				<string>EJ296434576JP</string>
+				<key>url</key>
+				<string>http://www.ems.com.cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>0592-5798079</string>
+				<key>logoMd5</key>
+				<string>e52cf3a2f9f4a892fd6f076aed9f7c27</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>俄顺达</string>
+				<key>number</key>
+				<string>eshunda</string>
+				<key>queryUrl</key>
+				<string>http://www.007ex.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>俄顺达</string>
+				<key>testNum</key>
+				<string></string>
+				<key>url</key>
+				<string>http://www.007ex.com/</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>f</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>400-886-1888</string>
+				<key>logoMd5</key>
+				<string>13b118e578482bf268b0318e90eb4f3f</string>
+				<key>logo_base64</key>
+				<string>iVBORw0KGgoAAAANSUhEUgAAAGgAAABoCAYAAAAdHLWhAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAA2RpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
+NDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEu
+MC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVz
+b3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1N
+Ok9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpGOTFFOENGOTU3NzhFMDExOEFGOUMzRjcxREIz
+OTM1QSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDowNTdFQjhGMEYzMzMxMUUwQjkxRUQ3QzA2
+QzBDNEMzRSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDowNTdFQjhFRkYzMzMxMUUwQjkxRUQ3
+QzA2QzBDNEMzRSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3Mi
+PiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDowRjIxQ0QzODhB
+RUFFMDExODJGOUEwQ0YwRkIyRUFEMiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpGOTFFOENG
+OTU3NzhFMDExOEFGOUMzRjcxREIzOTM1QSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRG
+PiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pu/2LWEAAARVSURBVHja7J29ctNAEMdl
+hgcQBS04vECcmsZ+giRdOktPAC6pklSUCU9g5wns9DB2CuroEQQtBX6DsDezHjyKdNpI5w/C7z9z
+I39IK+l+t7d7K2fSeXh4iND+6gVdACAEIAAhACEAAQgBCEAIQAhAAEIAQgACEAIQgBCAEIAAhAAE
+IAQgBCAAIQAhAAEIAQhACEAIQABCAAIQ2j913r/5HOqPVAfff35a7MNN+e7p7N236Ozga9tTXL4e
+Rxd4EAIQgBCAAIQAhMr18l9Kn7eghaTPAzwIAeh/muKarub7shlK62lbV+6mE2l3Mn1OnmDzRDbH
+BZtLaZm0W2kTsbd8ToAspZ5MO8Gnm1VHK5ixtK7xGhyskRw/84Dpqc2ewdaptPuqHWpKPSvYdXL7
+xYb9UolpedkXv9Io0QHs7XuLB/UM+9xpR17I5vyJg8SBnMqxbvSnJXAShWO1NW8xYF2n9w37XUo7
+lHZSs99UQAwE0rIAp2+4J3dM+iLglHbVAM66ErExLpnSxg06eRtKDd7mBvdcgMRrcNxnUwMcBzYP
+BcjFhY8B7CQKxcGJG8DZmtQrBkZIU4UTq4fXDaJTsZ+FzOJ6NXHBraU6rsnrA2kzz/5Xa1uLNyz0
+HLuClBpidF/gjI1wXNxabCvNXhYXuvI6l3aqHVsaR8R7nDcmNbZdUvJKbDn7Bzqa8x1AyvTcdZAS
+Qzx3z5kmW0mz10a36/BuRWJRFZDrYtmsmFC4QSDn8WZwm4QkHpIaYot3wJU9BGxd6pFO+e1x2xND
+ptMk0I/KPpTrzFw2aPC+4KUeOW6mkJrEzZkcnwavJGggj7c8YDM3TXq+v91h4uAGx/VT70fj2EZK
+Pb0d9MOy5febhjTS+GiF82idFBIQKtePUIbaJgl1a4BJw4sdekpFdVNqvEsyWsKxLth7mnofbQSQ
+K0xKHPLVpW59NTZPbDv0AOq5rNATh47blHq0DFOnvKzGZizhPLoft0aqShJCpNkLT6b2oWpRqql3
+t2EccbW7QbFyrUXVpMW9rEZ0nVwt7qIAx1LCqVwjyfFRGaQQMciXNfWL9bW1jrzXzihrsaUjtXK+
+splE7Qqlbaa1rvG66yAlwT3IPWaQzjn3eEOiHXmj79+qx8Ue7xnpNjFA2mk2oPW1qQGOZX02Vk+a
+hM7i0prvuxo4z/UifTfzRePL5a5TZiOcuWG5ca3TV2owO9bpMhwgrTSkAUy5Z0IXajOvqhjska4M
+cCa6Nlp5hmWNNF9BCrYO0ieqaUs4aQCb2Za8Z2yYsrJi4Nf3dZBihRQHXahqhx5F1ZXqyphT9jR1
+zaa1Ur2qLG9aQwucqmtRSJkFUmdTd6CZ2upHI8W1RR79/aHHzPpDD83UhiX2Mo1dk+iZqcP/sNtv
+UYsDEAIQgBCAEIAAhAAEIAQgBCAAIQAhAAEIAQhACEAIQABCAAIQAhACEIAQgBCAAIQABCAEIAQg
+ACEAAQjtof4IMAB3JWpou8BeHAAAAABJRU5ErkJggg==</string>
+				<key>name</key>
+				<string>FedEx</string>
+				<key>number</key>
+				<string>fedex</string>
+				<key>queryUrl</key>
+				<string>http://m.fedex.com/mt/www.fedex.com/cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>FedEx-国际单号是由12位纯数字组成</string>
+				<key>shortName</key>
+				<string>FedEx</string>
+				<key>testNum</key>
+				<string>629150117549</string>
+				<key>url</key>
+				<string>http://fedex.com/cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-889-1888</string>
+				<key>logoMd5</key>
+				<string>13b118e578482bf268b0318e90eb4f3f</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>FedEx(中国)</string>
+				<key>number</key>
+				<string>fedexcn</string>
+				<key>queryUrl</key>
+				<string>http://m.fedex.com/mt/www.fedex.com/cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>FedEx</string>
+				<key>testNum</key>
+				<string>773140840338</string>
+				<key>url</key>
+				<string>http://www.fedex.com/cn/index.html</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>800-463-3339</string>
+				<key>logoMd5</key>
+				<string>13b118e578482bf268b0318e90eb4f3f</string>
+				<key>logo_base64</key>
+				<string>iVBORw0KGgoAAAANSUhEUgAAAGgAAABoCAYAAAAdHLWhAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAA2RpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
+NDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEu
+MC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVz
+b3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1N
+Ok9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpGOTFFOENGOTU3NzhFMDExOEFGOUMzRjcxREIz
+OTM1QSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDowNTdFQjhGMEYzMzMxMUUwQjkxRUQ3QzA2
+QzBDNEMzRSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDowNTdFQjhFRkYzMzMxMUUwQjkxRUQ3
+QzA2QzBDNEMzRSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3Mi
+PiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDowRjIxQ0QzODhB
+RUFFMDExODJGOUEwQ0YwRkIyRUFEMiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpGOTFFOENG
+OTU3NzhFMDExOEFGOUMzRjcxREIzOTM1QSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRG
+PiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pu/2LWEAAARVSURBVHja7J29ctNAEMdl
+hgcQBS04vECcmsZ+giRdOktPAC6pklSUCU9g5wns9DB2CuroEQQtBX6DsDezHjyKdNpI5w/C7z9z
+I39IK+l+t7d7K2fSeXh4iND+6gVdACAEIAAhACEAAQgBCEAIQAhAAEIAQgACEAIQgBCAEIAAhAAE
+IAQgBCAAIQAhAAEIAQhACEAIQABCAAIQ2j913r/5HOqPVAfff35a7MNN+e7p7N236Ozga9tTXL4e
+Rxd4EAIQgBCAAIQAhMr18l9Kn7eghaTPAzwIAeh/muKarub7shlK62lbV+6mE2l3Mn1OnmDzRDbH
+BZtLaZm0W2kTsbd8ToAspZ5MO8Gnm1VHK5ixtK7xGhyskRw/84Dpqc2ewdaptPuqHWpKPSvYdXL7
+xYb9UolpedkXv9Io0QHs7XuLB/UM+9xpR17I5vyJg8SBnMqxbvSnJXAShWO1NW8xYF2n9w37XUo7
+lHZSs99UQAwE0rIAp2+4J3dM+iLglHbVAM66ErExLpnSxg06eRtKDd7mBvdcgMRrcNxnUwMcBzYP
+BcjFhY8B7CQKxcGJG8DZmtQrBkZIU4UTq4fXDaJTsZ+FzOJ6NXHBraU6rsnrA2kzz/5Xa1uLNyz0
+HLuClBpidF/gjI1wXNxabCvNXhYXuvI6l3aqHVsaR8R7nDcmNbZdUvJKbDn7Bzqa8x1AyvTcdZAS
+Qzx3z5kmW0mz10a36/BuRWJRFZDrYtmsmFC4QSDn8WZwm4QkHpIaYot3wJU9BGxd6pFO+e1x2xND
+ptMk0I/KPpTrzFw2aPC+4KUeOW6mkJrEzZkcnwavJGggj7c8YDM3TXq+v91h4uAGx/VT70fj2EZK
+Pb0d9MOy5febhjTS+GiF82idFBIQKtePUIbaJgl1a4BJw4sdekpFdVNqvEsyWsKxLth7mnofbQSQ
+K0xKHPLVpW59NTZPbDv0AOq5rNATh47blHq0DFOnvKzGZizhPLoft0aqShJCpNkLT6b2oWpRqql3
+t2EccbW7QbFyrUXVpMW9rEZ0nVwt7qIAx1LCqVwjyfFRGaQQMciXNfWL9bW1jrzXzihrsaUjtXK+
+splE7Qqlbaa1rvG66yAlwT3IPWaQzjn3eEOiHXmj79+qx8Ue7xnpNjFA2mk2oPW1qQGOZX02Vk+a
+hM7i0prvuxo4z/UifTfzRePL5a5TZiOcuWG5ca3TV2owO9bpMhwgrTSkAUy5Z0IXajOvqhjska4M
+cCa6Nlp5hmWNNF9BCrYO0ieqaUs4aQCb2Za8Z2yYsrJi4Nf3dZBihRQHXahqhx5F1ZXqyphT9jR1
+zaa1Ur2qLG9aQwucqmtRSJkFUmdTd6CZ2upHI8W1RR79/aHHzPpDD83UhiX2Mo1dk+iZqcP/sNtv
+UYsDEAIQgBCAEIAAhAAEIAQgBCAAIQAhAAEIAQhACEAIQABCAAIQAhACEIAQgBCAAIQABCAEIAQg
+ACEAAQjtof4IMAB3JWpou8BeHAAAAABJRU5ErkJggg==</string>
+				<key>name</key>
+				<string>FedEx(美国)</string>
+				<key>number</key>
+				<string>fedexus</string>
+				<key>queryUrl</key>
+				<string>http://m.fedex.com/mt/www.fedex.com/us/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>fedex美国的单号一般由纯数字组成</string>
+				<key>shortName</key>
+				<string>FedEx</string>
+				<key>testNum</key>
+				<string>773557115128</string>
+				<key>url</key>
+				<string>http://www.fedex.com/us/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>010-84223376,84223378</string>
+				<key>logoMd5</key>
+				<string>ddb161b458e9d115aff48c972ea04e8a</string>
+				<key>logo_base64</key>
+				<string>iVBORw0KGgoAAAANSUhEUgAAAGgAAABoCAYAAAAdHLWhAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAA2RpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
+NDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEu
+MC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVz
+b3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1N
+Ok9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpGOTFFOENGOTU3NzhFMDExOEFGOUMzRjcxREIz
+OTM1QSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo0RTU5RDFEQ0YzMzcxMUUwOTVENzkyOTBF
+RTBBQzNEOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo0RTU5RDFEQkYzMzcxMUUwOTVENzky
+OTBFRTBBQzNEOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3Mi
+PiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMDBFMDU3ODMz
+RjNFMDExQjZCMEIzMjQ0RjdCMkNGMCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpGOTFFOENG
+OTU3NzhFMDExOEFGOUMzRjcxREIzOTM1QSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRG
+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
+AAAAAElFTkSuQmCC</string>
+				<key>name</key>
+				<string>飞康达</string>
+				<key>number</key>
+				<string>feikangda</string>
+				<key>queryUrl</key>
+				<string></string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>飞康达单号查询编码大多以8开头，一般由11位的数字组成</string>
+				<key>shortName</key>
+				<string>飞康达</string>
+				<key>testNum</key>
+				<string>500045616901</string>
+				<key>url</key>
+				<string>http://www.fkd.com.cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>4007-031-313</string>
+				<key>logoMd5</key>
+				<string>a8fc469a2933a64dd71d58c84dc22f7e</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>飞远配送</string>
+				<key>number</key>
+				<string>feiyuanvipshop</string>
+				<key>queryUrl</key>
+				<string>http://www.fyps.cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>飞远配送</string>
+				<key>testNum</key>
+				<string>15051016699616</string>
+				<key>url</key>
+				<string>http://www.fyps.cn/</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>g</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>400-6886-765</string>
+				<key>logoMd5</key>
+				<string>a832cdd2b834fe75fcb5c15063909bae</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>能达速递</string>
+				<key>number</key>
+				<string>ganzhongnengda</string>
+				<key>queryUrl</key>
+				<string>http://www.nd56.com/Service/1/</string>
+				<key>reg</key>
+				<string>^[0-9]{10,12}$</string>
+				<key>regInfo</key>
+				<string>港中能达单号一般以88开头的12位或10位数字</string>
+				<key>shortName</key>
+				<string>能达</string>
+				<key>testNum</key>
+				<string>886000130608</string>
+				<key>url</key>
+				<string>http://www.neda-express.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-990-0088</string>
+				<key>logoMd5</key>
+				<string>438e1708b9fb0a57ee768118ab65668b</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>冠达快递</string>
+				<key>number</key>
+				<string>gda</string>
+				<key>queryUrl</key>
+				<string>http://www.gda-e.com.cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>冠达</string>
+				<key>testNum</key>
+				<string>700114011295</string>
+				<key>url</key>
+				<string>http://www.gda-e.com.cn/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-11-33333</string>
+				<key>logoMd5</key>
+				<string>8d68598b5deef539f9ae2f40e343136e</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>港快速递</string>
+				<key>number</key>
+				<string>gdkd</string>
+				<key>queryUrl</key>
+				<string>http://www.gksd.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>港快</string>
+				<key>testNum</key>
+				<string>2000002160273</string>
+				<key>url</key>
+				<string>http://www.gksd.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-880-5088</string>
+				<key>logoMd5</key>
+				<string>bd9c4d67b409ee3c0df0333dc169b2a2</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>英脉物流</string>
+				<key>number</key>
+				<string>gml</string>
+				<key>queryUrl</key>
+				<string>http://www.gml.cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>英脉物流</string>
+				<key>testNum</key>
+				<string>141000000000</string>
+				<key>url</key>
+				<string>http://www.gml.cn/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-080-6369</string>
+				<key>logoMd5</key>
+				<string>00438bf9fb87afb6aa489bead4d67ffd</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>广通速递</string>
+				<key>number</key>
+				<string>gtongsudi</string>
+				<key>queryUrl</key>
+				<string>http://www.gtongsudi.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>广通速递</string>
+				<key>testNum</key>
+				<string>2200000304826</string>
+				<key>url</key>
+				<string>http://www.gtongsudi.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-111-1123</string>
+				<key>logoMd5</key>
+				<string>d2637186eaf92d82c875e060949f4e6e</string>
+				<key>logo_base64</key>
+				<string>iVBORw0KGgoAAAANSUhEUgAAAGgAAABoCAYAAAAdHLWhAAAACXBIWXMAAAsTAAALEwEAmpwYAAAK
+TWlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVN3WJP3Fj7f92UPVkLY8LGXbIEAIiOsCMgQ
+WaIQkgBhhBASQMWFiApWFBURnEhVxILVCkidiOKgKLhnQYqIWotVXDjuH9yntX167+3t+9f7vOec
+5/zOec8PgBESJpHmomoAOVKFPDrYH49PSMTJvYACFUjgBCAQ5svCZwXFAADwA3l4fnSwP/wBr28A
+AgBw1S4kEsfh/4O6UCZXACCRAOAiEucLAZBSAMguVMgUAMgYALBTs2QKAJQAAGx5fEIiAKoNAOz0
+ST4FANipk9wXANiiHKkIAI0BAJkoRyQCQLsAYFWBUiwCwMIAoKxAIi4EwK4BgFm2MkcCgL0FAHaO
+WJAPQGAAgJlCLMwAIDgCAEMeE80DIEwDoDDSv+CpX3CFuEgBAMDLlc2XS9IzFLiV0Bp38vDg4iHi
+wmyxQmEXKRBmCeQinJebIxNI5wNMzgwAABr50cH+OD+Q5+bk4eZm52zv9MWi/mvwbyI+IfHf/ryM
+AgQAEE7P79pf5eXWA3DHAbB1v2upWwDaVgBo3/ldM9sJoFoK0Hr5i3k4/EAenqFQyDwdHAoLC+0l
+YqG9MOOLPv8z4W/gi372/EAe/tt68ABxmkCZrcCjg/1xYW52rlKO58sEQjFu9+cj/seFf/2OKdHi
+NLFcLBWK8ViJuFAiTcd5uVKRRCHJleIS6X8y8R+W/QmTdw0ArIZPwE62B7XLbMB+7gECiw5Y0nYA
+QH7zLYwaC5EAEGc0Mnn3AACTv/mPQCsBAM2XpOMAALzoGFyolBdMxggAAESggSqwQQcMwRSswA6c
+wR28wBcCYQZEQAwkwDwQQgbkgBwKoRiWQRlUwDrYBLWwAxqgEZrhELTBMTgN5+ASXIHrcBcGYBie
+whi8hgkEQcgIE2EhOogRYo7YIs4IF5mOBCJhSDSSgKQg6YgUUSLFyHKkAqlCapFdSCPyLXIUOY1c
+QPqQ28ggMor8irxHMZSBslED1AJ1QLmoHxqKxqBz0XQ0D12AlqJr0Rq0Hj2AtqKn0UvodXQAfYqO
+Y4DRMQ5mjNlhXIyHRWCJWBomxxZj5Vg1Vo81Yx1YN3YVG8CeYe8IJAKLgBPsCF6EEMJsgpCQR1hM
+WEOoJewjtBK6CFcJg4Qxwicik6hPtCV6EvnEeGI6sZBYRqwm7iEeIZ4lXicOE1+TSCQOyZLkTgoh
+JZAySQtJa0jbSC2kU6Q+0hBpnEwm65Btyd7kCLKArCCXkbeQD5BPkvvJw+S3FDrFiOJMCaIkUqSU
+Eko1ZT/lBKWfMkKZoKpRzame1AiqiDqfWkltoHZQL1OHqRM0dZolzZsWQ8ukLaPV0JppZ2n3aC/p
+dLoJ3YMeRZfQl9Jr6Afp5+mD9HcMDYYNg8dIYigZaxl7GacYtxkvmUymBdOXmchUMNcyG5lnmA+Y
+b1VYKvYqfBWRyhKVOpVWlX6V56pUVXNVP9V5qgtUq1UPq15WfaZGVbNQ46kJ1Bar1akdVbupNq7O
+UndSj1DPUV+jvl/9gvpjDbKGhUaghkijVGO3xhmNIRbGMmXxWELWclYD6yxrmE1iW7L57Ex2Bfsb
+di97TFNDc6pmrGaRZp3mcc0BDsax4PA52ZxKziHODc57LQMtPy2x1mqtZq1+rTfaetq+2mLtcu0W
+7eva73VwnUCdLJ31Om0693UJuja6UbqFutt1z+o+02PreekJ9cr1Dund0Uf1bfSj9Rfq79bv0R83
+MDQINpAZbDE4Y/DMkGPoa5hpuNHwhOGoEctoupHEaKPRSaMnuCbuh2fjNXgXPmasbxxirDTeZdxr
+PGFiaTLbpMSkxeS+Kc2Ua5pmutG003TMzMgs3KzYrMnsjjnVnGueYb7ZvNv8jYWlRZzFSos2i8eW
+2pZ8ywWWTZb3rJhWPlZ5VvVW16xJ1lzrLOtt1ldsUBtXmwybOpvLtqitm63Edptt3xTiFI8p0in1
+U27aMez87ArsmuwG7Tn2YfYl9m32zx3MHBId1jt0O3xydHXMdmxwvOuk4TTDqcSpw+lXZxtnoXOd
+8zUXpkuQyxKXdpcXU22niqdun3rLleUa7rrStdP1o5u7m9yt2W3U3cw9xX2r+00umxvJXcM970H0
+8PdY4nHM452nm6fC85DnL152Xlle+70eT7OcJp7WMG3I28Rb4L3Le2A6Pj1l+s7pAz7GPgKfep+H
+vqa+It89viN+1n6Zfgf8nvs7+sv9j/i/4XnyFvFOBWABwQHlAb2BGoGzA2sDHwSZBKUHNQWNBbsG
+Lww+FUIMCQ1ZH3KTb8AX8hv5YzPcZyya0RXKCJ0VWhv6MMwmTB7WEY6GzwjfEH5vpvlM6cy2CIjg
+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</string>
+				<key>name</key>
+				<string>国通快递</string>
+				<key>number</key>
+				<string>guotongkuaidi</string>
+				<key>queryUrl</key>
+				<string>http://www.gto365.com/Service/kjzz/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>国通快递单号一般由10位纯数字组成</string>
+				<key>shortName</key>
+				<string>国通</string>
+				<key>testNum</key>
+				<string>3117438563</string>
+				<key>url</key>
+				<string>http://www.gto365.com</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>h</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>400-182-6666</string>
+				<key>logoMd5</key>
+				<string>bd75eed09d37542978ee29aa7dd4d920</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>恒路物流</string>
+				<key>number</key>
+				<string>hengluwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.e-henglu.com/</string>
+				<key>reg</key>
+				<string>^[A-Za-z0-9]{7,20}$</string>
+				<key>regInfo</key>
+				<string>恒路物流单号以7-13位的字母加数字组合，常见已8*开头的9位数字单号</string>
+				<key>shortName</key>
+				<string>恒路</string>
+				<key>testNum</key>
+				<string>1511741082</string>
+				<key>url</key>
+				<string>http://www.e-henglu.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>(852) 2921 2222</string>
+				<key>logoMd5</key>
+				<string>df12d223e2101cc2bdd816efb282ec2a</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>HongKong Post</string>
+				<key>number</key>
+				<string>hkpost</string>
+				<key>queryUrl</key>
+				<string>http://app3.hongkongpost.hk/CGI/mt/s_enquiry.jsp</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>香港邮政</string>
+				<key>testNum</key>
+				<string>EL300917095HK</string>
+				<key>url</key>
+				<string>http://www.hongkongpost.hk</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-6291-666</string>
+				<key>logoMd5</key>
+				<string>4bc8d04f69204231e743a82d0d8ecbad</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>飞鹰物流</string>
+				<key>number</key>
+				<string>hnfy</string>
+				<key>queryUrl</key>
+				<string>http://www.hnfy56.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>飞鹰物流</string>
+				<key>testNum</key>
+				<string>617100257453</string>
+				<key>url</key>
+				<string>http://www.hnfy56.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-999-7777</string>
+				<key>logoMd5</key>
+				<string>2965792e1e535d208be8b1c06e1c3364</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>高铁速递</string>
+				<key>number</key>
+				<string>hre</string>
+				<key>queryUrl</key>
+				<string>http://www.hre-e.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>高铁速递</string>
+				<key>testNum</key>
+				<string>59200014345</string>
+				<key>url</key>
+				<string>http://www.hre-e.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>029-96128</string>
+				<key>logoMd5</key>
+				<string>da6f8659962a72a1dc6feb209e91f5c6</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>陕西黄马甲</string>
+				<key>number</key>
+				<string>huangmajia</string>
+				<key>queryUrl</key>
+				<string>http://www.huangmajia.com</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>黄马甲</string>
+				<key>testNum</key>
+				<string>888011244246</string>
+				<key>url</key>
+				<string>http://www.huangmajia.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-806-8111</string>
+				<key>logoMd5</key>
+				<string>b07261dd5fc193b9ae24e4acf6472bc0</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>华企快运</string>
+				<key>number</key>
+				<string>huaqikuaiyun</string>
+				<key>queryUrl</key>
+				<string>http://www.hqkd.cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>华企</string>
+				<key>testNum</key>
+				<string>201000000000</string>
+				<key>url</key>
+				<string>13055209678</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-716-6133</string>
+				<key>logoMd5</key>
+				<string>1b130c6ed9c09e859f6e0b5fd1973073</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>华夏龙</string>
+				<key>number</key>
+				<string>huaxialongwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.chinadragon56.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>华夏龙物流的单号一般由纯数字组成</string>
+				<key>shortName</key>
+				<string>华夏龙</string>
+				<key>testNum</key>
+				<string>984535</string>
+				<key>url</key>
+				<string>http://www.chinadragon56.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string></string>
+				<key>logoMd5</key>
+				<string>c257378b223bc93a606659d327e186e6</string>
+				<key>logo_base64</key>
+				<string>iVBORw0KGgoAAAANSUhEUgAAAGgAAABoCAYAAAAdHLWhAAAACXBIWXMAAAsTAAALEwEAmpwYAAAK
+TWlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVN3WJP3Fj7f92UPVkLY8LGXbIEAIiOsCMgQ
+WaIQkgBhhBASQMWFiApWFBURnEhVxILVCkidiOKgKLhnQYqIWotVXDjuH9yntX167+3t+9f7vOec
+5/zOec8PgBESJpHmomoAOVKFPDrYH49PSMTJvYACFUjgBCAQ5svCZwXFAADwA3l4fnSwP/wBr28A
+AgBw1S4kEsfh/4O6UCZXACCRAOAiEucLAZBSAMguVMgUAMgYALBTs2QKAJQAAGx5fEIiAKoNAOz0
+ST4FANipk9wXANiiHKkIAI0BAJkoRyQCQLsAYFWBUiwCwMIAoKxAIi4EwK4BgFm2MkcCgL0FAHaO
+WJAPQGAAgJlCLMwAIDgCAEMeE80DIEwDoDDSv+CpX3CFuEgBAMDLlc2XS9IzFLiV0Bp38vDg4iHi
+wmyxQmEXKRBmCeQinJebIxNI5wNMzgwAABr50cH+OD+Q5+bk4eZm52zv9MWi/mvwbyI+IfHf/ryM
+AgQAEE7P79pf5eXWA3DHAbB1v2upWwDaVgBo3/ldM9sJoFoK0Hr5i3k4/EAenqFQyDwdHAoLC+0l
+YqG9MOOLPv8z4W/gi372/EAe/tt68ABxmkCZrcCjg/1xYW52rlKO58sEQjFu9+cj/seFf/2OKdHi
+NLFcLBWK8ViJuFAiTcd5uVKRRCHJleIS6X8y8R+W/QmTdw0ArIZPwE62B7XLbMB+7gECiw5Y0nYA
+QH7zLYwaC5EAEGc0Mnn3AACTv/mPQCsBAM2XpOMAALzoGFyolBdMxggAAESggSqwQQcMwRSswA6c
+wR28wBcCYQZEQAwkwDwQQgbkgBwKoRiWQRlUwDrYBLWwAxqgEZrhELTBMTgN5+ASXIHrcBcGYBie
+whi8hgkEQcgIE2EhOogRYo7YIs4IF5mOBCJhSDSSgKQg6YgUUSLFyHKkAqlCapFdSCPyLXIUOY1c
+QPqQ28ggMor8irxHMZSBslED1AJ1QLmoHxqKxqBz0XQ0D12AlqJr0Rq0Hj2AtqKn0UvodXQAfYqO
+Y4DRMQ5mjNlhXIyHRWCJWBomxxZj5Vg1Vo81Yx1YN3YVG8CeYe8IJAKLgBPsCF6EEMJsgpCQR1hM
+WEOoJewjtBK6CFcJg4Qxwicik6hPtCV6EvnEeGI6sZBYRqwm7iEeIZ4lXicOE1+TSCQOyZLkTgoh
+JZAySQtJa0jbSC2kU6Q+0hBpnEwm65Btyd7kCLKArCCXkbeQD5BPkvvJw+S3FDrFiOJMCaIkUqSU
+Eko1ZT/lBKWfMkKZoKpRzame1AiqiDqfWkltoHZQL1OHqRM0dZolzZsWQ8ukLaPV0JppZ2n3aC/p
+dLoJ3YMeRZfQl9Jr6Afp5+mD9HcMDYYNg8dIYigZaxl7GacYtxkvmUymBdOXmchUMNcyG5lnmA+Y
+b1VYKvYqfBWRyhKVOpVWlX6V56pUVXNVP9V5qgtUq1UPq15WfaZGVbNQ46kJ1Bar1akdVbupNq7O
+UndSj1DPUV+jvl/9gvpjDbKGhUaghkijVGO3xhmNIRbGMmXxWELWclYD6yxrmE1iW7L57Ex2Bfsb
+di97TFNDc6pmrGaRZp3mcc0BDsax4PA52ZxKziHODc57LQMtPy2x1mqtZq1+rTfaetq+2mLtcu0W
+7eva73VwnUCdLJ31Om0693UJuja6UbqFutt1z+o+02PreekJ9cr1Dund0Uf1bfSj9Rfq79bv0R83
+MDQINpAZbDE4Y/DMkGPoa5hpuNHwhOGoEctoupHEaKPRSaMnuCbuh2fjNXgXPmasbxxirDTeZdxr
+PGFiaTLbpMSkxeS+Kc2Ua5pmutG003TMzMgs3KzYrMnsjjnVnGueYb7ZvNv8jYWlRZzFSos2i8eW
+2pZ8ywWWTZb3rJhWPlZ5VvVW16xJ1lzrLOtt1ldsUBtXmwybOpvLtqitm63Edptt3xTiFI8p0in1
+U27aMez87ArsmuwG7Tn2YfYl9m32zx3MHBId1jt0O3xydHXMdmxwvOuk4TTDqcSpw+lXZxtnoXOd
+8zUXpkuQyxKXdpcXU22niqdun3rLleUa7rrStdP1o5u7m9yt2W3U3cw9xX2r+00umxvJXcM970H0
+8PdY4nHM452nm6fC85DnL152Xlle+70eT7OcJp7WMG3I28Rb4L3Le2A6Pj1l+s7pAz7GPgKfep+H
+vqa+It89viN+1n6Zfgf8nvs7+sv9j/i/4XnyFvFOBWABwQHlAb2BGoGzA2sDHwSZBKUHNQWNBbsG
+Lww+FUIMCQ1ZH3KTb8AX8hv5YzPcZyya0RXKCJ0VWhv6MMwmTB7WEY6GzwjfEH5vpvlM6cy2CIjg
+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
+AAAAAElFTkSuQmCC</string>
+				<key>name</key>
+				<string>汇强快递</string>
+				<key>number</key>
+				<string>huiqiangkuaidi</string>
+				<key>queryUrl</key>
+				<string>http://www.hq-ex.com/hq/searchBill.jsp</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>汇强</string>
+				<key>testNum</key>
+				<string></string>
+				<key>url</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>4009 565656</string>
+				<key>logoMd5</key>
+				<string>f4089a78021ba4fb5a15c3f16f8bc745</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>百世汇通</string>
+				<key>number</key>
+				<string>huitongkuaidi</string>
+				<key>queryUrl</key>
+				<string>http://www.800bestex.com/</string>
+				<key>reg</key>
+				<string>^[A-Za-z0-9]{11,14}$</string>
+				<key>regInfo</key>
+				<string>百世汇通单号由12-14位数字字母组成，常见以50*开头</string>
+				<key>shortName</key>
+				<string>汇通</string>
+				<key>testNum</key>
+				<string>210792421677</string>
+				<key>url</key>
+				<string>http://www.800bestex.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>0931-5345730/32</string>
+				<key>logoMd5</key>
+				<string>ccbde60afc36dd4a80535bfa77fe71bb</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>伙伴物流</string>
+				<key>number</key>
+				<string>huoban</string>
+				<key>queryUrl</key>
+				<string>http://www.lzhbwl.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>伙伴物流</string>
+				<key>testNum</key>
+				<string>JR1400027018</string>
+				<key>url</key>
+				<string>http://www.lzhbwl.com/</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>i</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>400-098-5656</string>
+				<key>logoMd5</key>
+				<string>0ae7b09b2175993c4ba3d98cc948f748</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>百成大达物流</string>
+				<key>number</key>
+				<string>idada</string>
+				<key>queryUrl</key>
+				<string>http://www.idada56.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>百成大达</string>
+				<key>testNum</key>
+				<string>04088064</string>
+				<key>url</key>
+				<string>http://www.idada56.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>+44 8702 200 300</string>
+				<key>logoMd5</key>
+				<string>fd4e1d03509f9069b6702a239d9fb2bf</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>Interlink Express</string>
+				<key>number</key>
+				<string>interlink</string>
+				<key>queryUrl</key>
+				<string>http://www.interlinkexpress.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>Interlink</string>
+				<key>testNum</key>
+				<string>6152848856</string>
+				<key>url</key>
+				<string>http://www.interlinkexpress.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string></string>
+				<key>logoMd5</key>
+				<string>d771d8c100ec0e877b36c8f5a79f5cbf</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>UPS i-paclel</string>
+				<key>number</key>
+				<string>iparcel</string>
+				<key>queryUrl</key>
+				<string>http://www.i-parcel.com/en/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>i-paclel</string>
+				<key>testNum</key>
+				<string>AEIWRO20000040186</string>
+				<key>url</key>
+				<string>http://www.i-parcel.com/en/</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>j</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>+81 0570-046111</string>
+				<key>logoMd5</key>
+				<string>5ca70ca478af6b85fec9d3c6e5593a85</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>日本郵便</string>
+				<key>number</key>
+				<string>japanposten</string>
+				<key>queryUrl</key>
+				<string>http://www.post.japanpost.jp/smt/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>日本邮政</string>
+				<key>testNum</key>
+				<string>CI060662491JP</string>
+				<key>url</key>
+				<string>http://www.post.japanpost.jp/english/index.html </string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-603-3600</string>
+				<key>logoMd5</key>
+				<string>e39446614c4f1acf9b8a7831dfb8663a</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>京东快递</string>
+				<key>number</key>
+				<string>jd</string>
+				<key>queryUrl</key>
+				<string>http://jd-ex.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>京东</string>
+				<key>testNum</key>
+				<string>VC06015444234</string>
+				<key>url</key>
+				<string>http://www.jd-ex.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-820-5566</string>
+				<key>logoMd5</key>
+				<string>61099b2001c82e85aff7a0baa5da3bce</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>佳吉快运</string>
+				<key>number</key>
+				<string>jiajiwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.jiaji.com/goods.aspx</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>佳吉快运由9位纯数字组成</string>
+				<key>shortName</key>
+				<string>佳吉</string>
+				<key>testNum</key>
+				<string>725744747</string>
+				<key>url</key>
+				<string>http://www.jiaji.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-610-3188</string>
+				<key>logoMd5</key>
+				<string>0c0a18cf8884fac5b914e9e6c682f91f</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>嘉里物流</string>
+				<key>number</key>
+				<string>jialidatong</string>
+				<key>queryUrl</key>
+				<string>http://kei.kerrylogistics.com/KerryExpress/ShipmentEnquire2.action</string>
+				<key>reg</key>
+				<string>^(316)[A-Za-z][0-9]{9}$</string>
+				<key>regInfo</key>
+				<string>嘉里大通的单号一般由13位字母和数字组成</string>
+				<key>shortName</key>
+				<string>嘉里物流</string>
+				<key>testNum</key>
+				<string>316A395005675</string>
+				<key>url</key>
+				<string>http://www.kerryeas.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-631-9999</string>
+				<key>logoMd5</key>
+				<string>8c545902295499cb56242b0d247c6fbb</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>佳怡物流</string>
+				<key>number</key>
+				<string>jiayiwuliu</string>
+				<key>queryUrl</key>
+				<string>http://58.59.21.232:8080/aspx/ydcx_kh.aspx</string>
+				<key>reg</key>
+				<string>^[0-9]{8}$</string>
+				<key>regInfo</key>
+				<string>佳怡物流查询单号一般是由8位数字组成</string>
+				<key>shortName</key>
+				<string>佳怡</string>
+				<key>testNum</key>
+				<string>34586349</string>
+				<key>url</key>
+				<string>http://www.jiayi56.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>0769-85515555</string>
+				<key>logoMd5</key>
+				<string>a0993310b329fd1779154456b82508b3</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>加运美速递</string>
+				<key>number</key>
+				<string>jiayunmeiwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.tms56.com/</string>
+				<key>reg</key>
+				<string>^[0-9]{10}$</string>
+				<key>regInfo</key>
+				<string>加运美快递正确的单号由10位数字组成</string>
+				<key>shortName</key>
+				<string>加运美</string>
+				<key>testNum</key>
+				<string>2141025659</string>
+				<key>url</key>
+				<string>http://www.tms56.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>0769-88629888</string>
+				<key>logoMd5</key>
+				<string>63b6b81e2ee662355c3cf69597b2f5c1</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>京广速递</string>
+				<key>number</key>
+				<string>jinguangsudikuaijian</string>
+				<key>queryUrl</key>
+				<string>http://www.szkke.com/</string>
+				<key>reg</key>
+				<string>^[0-9]{10}$</string>
+				<key>regInfo</key>
+				<string>京广速递查询单号一般是由10位数字组成</string>
+				<key>shortName</key>
+				<string>京广</string>
+				<key>testNum</key>
+				<string>7063781126</string>
+				<key>url</key>
+				<string>http://www.szkke.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-638-9288</string>
+				<key>logoMd5</key>
+				<string>4900253a39964317170e24d289fd8fd3</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>晋越快递</string>
+				<key>number</key>
+				<string>jinyuekuaidi</string>
+				<key>queryUrl</key>
+				<string>http://www.byondex.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>晋越快递的单号一般由12位纯数字组成</string>
+				<key>shortName</key>
+				<string>晋越</string>
+				<key>testNum</key>
+				<string>500300221465</string>
+				<key>url</key>
+				<string>http://www.byondex.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>021-59766363</string>
+				<key>logoMd5</key>
+				<string>149fc307b0040df052f05664c8257987</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>急先达物流</string>
+				<key>number</key>
+				<string>jixianda</string>
+				<key>queryUrl</key>
+				<string>http://www.joust.cn/</string>
+				<key>reg</key>
+				<string>^(500)[0-9]{6}$</string>
+				<key>regInfo</key>
+				<string>急先达单号一般是由以500*开头的9位数字组成</string>
+				<key>shortName</key>
+				<string>急先达</string>
+				<key>testNum</key>
+				<string>500617727</string>
+				<key>url</key>
+				<string>http://www.joust.net.cn/</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>k</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>+82 2 2195 1114</string>
+				<key>logoMd5</key>
+				<string>4ec5ab08345cb8268c6b6873e0297e52</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>Korea Post</string>
+				<key>number</key>
+				<string>koreapost</string>
+				<key>queryUrl</key>
+				<string>http://www.koreapost.go.kr/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>韩国邮政</string>
+				<key>testNum</key>
+				<string>RR933941638KR</string>
+				<key>url</key>
+				<string>http://www.koreapost.go.kr/kpost/main/index.jsp</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-830-4888</string>
+				<key>logoMd5</key>
+				<string>93f8bb7d9df021a86c05a3752cdfcbec</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>快捷速递</string>
+				<key>number</key>
+				<string>kuaijiesudi</string>
+				<key>queryUrl</key>
+				<string>http://www.fastexpress.com.cn/ydcheck/index.jhtml</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>快捷常见单号有13位纯数字组成</string>
+				<key>shortName</key>
+				<string>快捷</string>
+				<key>testNum</key>
+				<string>521105632538</string>
+				<key>url</key>
+				<string>http://www.fastexpress.com.cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-770-3370</string>
+				<key>logoMd5</key>
+				<string>0df9bfa0f5c1f2fd75347062c926178c</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>快淘快递</string>
+				<key>number</key>
+				<string>kuaitao</string>
+				<key>queryUrl</key>
+				<string>http://www.4007703370.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>快淘快递</string>
+				<key>testNum</key>
+				<string>8080007464965</string>
+				<key>url</key>
+				<string>http://www.4007703370.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>4006-068-555</string>
+				<key>logoMd5</key>
+				<string>2d2ab989e19b96ab22dc27d2e8ee4b2a</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>四川快优达</string>
+				<key>number</key>
+				<string>kuaiyouda</string>
+				<key>queryUrl</key>
+				<string>http://www.sckyd.net/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>快优达</string>
+				<key>testNum</key>
+				<string>6000440235</string>
+				<key>url</key>
+				<string>http://www.sckyd.net/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>4008-098-098 </string>
+				<key>logoMd5</key>
+				<string>60d6bcac9773158f60d7336fe1cfcd91</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>跨越速递</string>
+				<key>number</key>
+				<string>kuayue</string>
+				<key>queryUrl</key>
+				<string></string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>跨越物流的单号一般由7位数字组成</string>
+				<key>shortName</key>
+				<string>跨越</string>
+				<key>testNum</key>
+				<string>802353265158</string>
+				<key>url</key>
+				<string>http://www.ky-express.com/</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>l</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>400-889-1888</string>
+				<key>logoMd5</key>
+				<string>13b118e578482bf268b0318e90eb4f3f</string>
+				<key>logo_base64</key>
+				<string>iVBORw0KGgoAAAANSUhEUgAAAGgAAABoCAYAAAAdHLWhAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAA2RpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
+NDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEu
+MC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVz
+b3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1N
+Ok9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpGOTFFOENGOTU3NzhFMDExOEFGOUMzRjcxREIz
+OTM1QSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDowNTdFQjhGMEYzMzMxMUUwQjkxRUQ3QzA2
+QzBDNEMzRSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDowNTdFQjhFRkYzMzMxMUUwQjkxRUQ3
+QzA2QzBDNEMzRSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3Mi
+PiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDowRjIxQ0QzODhB
+RUFFMDExODJGOUEwQ0YwRkIyRUFEMiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpGOTFFOENG
+OTU3NzhFMDExOEFGOUMzRjcxREIzOTM1QSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRG
+PiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pu/2LWEAAARVSURBVHja7J29ctNAEMdl
+hgcQBS04vECcmsZ+giRdOktPAC6pklSUCU9g5wns9DB2CuroEQQtBX6DsDezHjyKdNpI5w/C7z9z
+I39IK+l+t7d7K2fSeXh4iND+6gVdACAEIAAhACEAAQgBCEAIQAhAAEIAQgACEAIQgBCAEIAAhAAE
+IAQgBCAAIQAhAAEIAQhACEAIQABCAAIQ2j913r/5HOqPVAfff35a7MNN+e7p7N236Ozga9tTXL4e
+Rxd4EAIQgBCAAIQAhMr18l9Kn7eghaTPAzwIAeh/muKarub7shlK62lbV+6mE2l3Mn1OnmDzRDbH
+BZtLaZm0W2kTsbd8ToAspZ5MO8Gnm1VHK5ixtK7xGhyskRw/84Dpqc2ewdaptPuqHWpKPSvYdXL7
+xYb9UolpedkXv9Io0QHs7XuLB/UM+9xpR17I5vyJg8SBnMqxbvSnJXAShWO1NW8xYF2n9w37XUo7
+lHZSs99UQAwE0rIAp2+4J3dM+iLglHbVAM66ErExLpnSxg06eRtKDd7mBvdcgMRrcNxnUwMcBzYP
+BcjFhY8B7CQKxcGJG8DZmtQrBkZIU4UTq4fXDaJTsZ+FzOJ6NXHBraU6rsnrA2kzz/5Xa1uLNyz0
+HLuClBpidF/gjI1wXNxabCvNXhYXuvI6l3aqHVsaR8R7nDcmNbZdUvJKbDn7Bzqa8x1AyvTcdZAS
+Qzx3z5kmW0mz10a36/BuRWJRFZDrYtmsmFC4QSDn8WZwm4QkHpIaYot3wJU9BGxd6pFO+e1x2xND
+ptMk0I/KPpTrzFw2aPC+4KUeOW6mkJrEzZkcnwavJGggj7c8YDM3TXq+v91h4uAGx/VT70fj2EZK
+Pb0d9MOy5febhjTS+GiF82idFBIQKtePUIbaJgl1a4BJw4sdekpFdVNqvEsyWsKxLth7mnofbQSQ
+K0xKHPLVpW59NTZPbDv0AOq5rNATh47blHq0DFOnvKzGZizhPLoft0aqShJCpNkLT6b2oWpRqql3
+t2EccbW7QbFyrUXVpMW9rEZ0nVwt7qIAx1LCqVwjyfFRGaQQMciXNfWL9bW1jrzXzihrsaUjtXK+
+splE7Qqlbaa1rvG66yAlwT3IPWaQzjn3eEOiHXmj79+qx8Ue7xnpNjFA2mk2oPW1qQGOZX02Vk+a
+hM7i0prvuxo4z/UifTfzRePL5a5TZiOcuWG5ca3TV2owO9bpMhwgrTSkAUy5Z0IXajOvqhjska4M
+cCa6Nlp5hmWNNF9BCrYO0ieqaUs4aQCb2Za8Z2yYsrJi4Nf3dZBihRQHXahqhx5F1ZXqyphT9jR1
+zaa1Ur2qLG9aQwucqmtRSJkFUmdTd6CZ2upHI8W1RR79/aHHzPpDD83UhiX2Mo1dk+iZqcP/sNtv
+UYsDEAIQgBCAEIAAhAAEIAQgBCAAIQAhAAEIAQhACEAIQABCAAIQAhACEIAQgBCAAIQABCAEIAQg
+ACEAAQjtof4IMAB3JWpou8BeHAAAAABJRU5ErkJggg==</string>
+				<key>name</key>
+				<string>联邦快递</string>
+				<key>number</key>
+				<string>lianbangkuaidi</string>
+				<key>queryUrl</key>
+				<string>http://m.fedex.com/mt/www.fedex.com/cn/</string>
+				<key>reg</key>
+				<string>^[0-9]{12}$</string>
+				<key>regInfo</key>
+				<string>联邦快递国内单号常见以12*开头12位纯数字组成</string>
+				<key>shortName</key>
+				<string>联邦</string>
+				<key>testNum</key>
+				<string>120926833270</string>
+				<key>url</key>
+				<string>http://cndxp.apac.fedex.com/dxp.html</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>0769-88620000</string>
+				<key>logoMd5</key>
+				<string>fa72dafb57afe6914bdb1a623804912c</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>联昊通速递</string>
+				<key>number</key>
+				<string>lianhaowuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.lhtex.com.cn/kf.asp</string>
+				<key>reg</key>
+				<string>^[0-9]{10,12}$</string>
+				<key>regInfo</key>
+				<string>联昊通快递单号由12位或者10位数字编码组成</string>
+				<key>shortName</key>
+				<string>联昊通</string>
+				<key>testNum</key>
+				<string>543013432872</string>
+				<key>url</key>
+				<string>http://www.lhtex.com.cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>021-59218889</string>
+				<key>logoMd5</key>
+				<string>8991611196d4b37c8007b3d937378b70</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>龙邦速递</string>
+				<key>number</key>
+				<string>longbanwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.lbex.com.cn/ExpressQuery.aspx</string>
+				<key>reg</key>
+				<string>^[A-Za-z0-9]{12}$</string>
+				<key>regInfo</key>
+				<string>由12位数字组成，常见以16*开头，也有字母开头的</string>
+				<key>shortName</key>
+				<string>龙邦</string>
+				<key>testNum</key>
+				<string>688762934337</string>
+				<key>url</key>
+				<string>http://www.lbex.com.cn</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>m</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>400-0000-900</string>
+				<key>logoMd5</key>
+				<string>3c4842f496fc274ad43c8c6725357e84</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>麦力快递</string>
+				<key>number</key>
+				<string>mailikuaidi</string>
+				<key>queryUrl</key>
+				<string>http://www.mailikuaidi.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>麦力快递</string>
+				<key>testNum</key>
+				<string>808001631032</string>
+				<key>url</key>
+				<string>http://www.mailikuaidi.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>0769-81515303</string>
+				<key>logoMd5</key>
+				<string>c9dde5d0c4f3b765849d4c7686e57d68</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>民邦速递</string>
+				<key>number</key>
+				<string>minbangsudi</string>
+				<key>queryUrl</key>
+				<string>http://www.mbex168.com/OrderSearch.aspx</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>民邦</string>
+				<key>testNum</key>
+				<string>277490883</string>
+				<key>url</key>
+				<string>http://www.mbex168.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-817-4008</string>
+				<key>logoMd5</key>
+				<string>b2c1dd069ecfdad8158b405dc704380e</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>民航快递</string>
+				<key>number</key>
+				<string>minghangkuaidi</string>
+				<key>queryUrl</key>
+				<string>http://www.cae.com.cn/webFunction/ExpressQuery/Default.aspx</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>单号通常是以CAE开头的12位英文+数字</string>
+				<key>shortName</key>
+				<string>民航</string>
+				<key>testNum</key>
+				<string>CAE574425006</string>
+				<key>url</key>
+				<string>http://www.cae.com.cn</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>o</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>400-118-8588</string>
+				<key>logoMd5</key>
+				<string>c4bb9236f5978268fe2c8a71fa5ec4e4</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>OCS</string>
+				<key>number</key>
+				<string>ocs</string>
+				<key>queryUrl</key>
+				<string>http://www.ocschina.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>OCS国际快递的单号一般由11位纯数字组成</string>
+				<key>shortName</key>
+				<string>OCS</string>
+				<key>testNum</key>
+				<string>22024060774</string>
+				<key>url</key>
+				<string>http://www.ocschina.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>800-334-5000</string>
+				<key>logoMd5</key>
+				<string>be8aa6ffe82f6d7db464fb62ebe94ebd</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>OnTrac</string>
+				<key>number</key>
+				<string>ontrac</string>
+				<key>queryUrl</key>
+				<string>http://www.ontrac.com/tracking.asp</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>OnTrac单号一般由字母和数字组成</string>
+				<key>shortName</key>
+				<string>OnTrac</string>
+				<key>testNum</key>
+				<string>C11286110938025</string>
+				<key>url</key>
+				<string>http://www.ontrac.com</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>p</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>+45 80 20 70 30 </string>
+				<key>logoMd5</key>
+				<string>84e9040021e08585cfac304ef010be2d</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>Post Danmark</string>
+				<key>number</key>
+				<string>postdanmarken</string>
+				<key>queryUrl</key>
+				<string>https://mobil.postdanmark.dk</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>丹麦邮政</string>
+				<key>testNum</key>
+				<string>CC633268198DK</string>
+				<key>url</key>
+				<string>http://www.postdanmark.dk/en/Pages/home.aspx </string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>+31 20 500 8000</string>
+				<key>logoMd5</key>
+				<string>44c470fa1dbbfcc4e0ccd0dd034a50ce</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>PostNL</string>
+				<key>number</key>
+				<string>postnlcn</string>
+				<key>queryUrl</key>
+				<string>http://www.postnl.post</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>荷兰邮政</string>
+				<key>testNum</key>
+				<string>RS244460385NL</string>
+				<key>url</key>
+				<string>http://www.postnl.post</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>q</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>0769-82026703</string>
+				<key>logoMd5</key>
+				<string>737f720a6c1b1db802a858009aadb7d5</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>全晨快递</string>
+				<key>number</key>
+				<string>quanchenkuaidi</string>
+				<key>queryUrl</key>
+				<string>http://www.qckd.net/track.asp</string>
+				<key>reg</key>
+				<string>^[0-9]{10}$</string>
+				<key>regInfo</key>
+				<string>全晨单号由10位数字编码组成</string>
+				<key>shortName</key>
+				<string>全晨</string>
+				<key>testNum</key>
+				<string>3086275236</string>
+				<key>url</key>
+				<string>http://www.qckd.net/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-100-0001</string>
+				<key>logoMd5</key>
+				<string>185b9c03cf4d0672c96da11d8a398d08</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>全峰快递</string>
+				<key>number</key>
+				<string>quanfengkuaidi</string>
+				<key>queryUrl</key>
+				<string>http://www.qfkd.com.cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>全峰快递单号一般由10或者12位数字组成</string>
+				<key>shortName</key>
+				<string>全峰</string>
+				<key>testNum</key>
+				<string>330095810131</string>
+				<key>url</key>
+				<string>http://www.qfkd.com.cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-663-1111</string>
+				<key>logoMd5</key>
+				<string>178f13b9919107d23eec5e5b62ff72c6</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>全一快递</string>
+				<key>number</key>
+				<string>quanyikuaidi</string>
+				<key>queryUrl</key>
+				<string>http://www.unitop-apex.com/searchservice/postquery.aspx</string>
+				<key>reg</key>
+				<string>^[0-9]{9,12}$</string>
+				<key>regInfo</key>
+				<string>旧的为9位数字，被DHL合并后的中外运全一为12位数字</string>
+				<key>shortName</key>
+				<string>全一</string>
+				<key>testNum</key>
+				<string>518200062287</string>
+				<key>url</key>
+				<string>http://www.unitop-apex.com/</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>r</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>400-626-1667</string>
+				<key>logoMd5</key>
+				<string>939919a565cdd59b3f1d87dfbdd96434</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>瑞丰速递</string>
+				<key>number</key>
+				<string>rfsd</string>
+				<key>queryUrl</key>
+				<string></string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>瑞丰</string>
+				<key>testNum</key>
+				<string>8802619770</string>
+				<key>url</key>
+				<string>http://www.rfkd88.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>+44 1752387112</string>
+				<key>logoMd5</key>
+				<string>cc9c6dc0dfc56e83645d22206b476a51</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>Royal Mail</string>
+				<key>number</key>
+				<string>royalmail</string>
+				<key>queryUrl</key>
+				<string>http://m.royalmail.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>Royal Mail</string>
+				<key>testNum</key>
+				<string>RQ304136228GB</string>
+				<key>url</key>
+				<string>http://www.royalmail.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-800-9999</string>
+				<key>logoMd5</key>
+				<string>7c628b7b31c9d6500b7e971ec38d851b</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>日日顺物流</string>
+				<key>number</key>
+				<string>rrs</string>
+				<key>queryUrl</key>
+				<string>http://www.rrs.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>日日顺</string>
+				<key>testNum</key>
+				<string>6066634499</string>
+				<key>url</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-010-6660</string>
+				<key>logoMd5</key>
+				<string>e1a710ac3dfc60c3886beafa9b1a31d8</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>如风达</string>
+				<key>number</key>
+				<string>rufengda</string>
+				<key>queryUrl</key>
+				<string>http://www.rufengda.com/Query/OrderTracking</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>如风达单号或者是纯数字，或者字母加数字。</string>
+				<key>shortName</key>
+				<string>如风达</string>
+				<key>testNum</key>
+				<string>115040836070691301</string>
+				<key>url</key>
+				<string>http://www.rufengda.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>+46 8 23 22 20</string>
+				<key>logoMd5</key>
+				<string>52bd35592d4ede98d59357554866ac16</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>瑞典邮政</string>
+				<key>number</key>
+				<string>ruidianyouzheng</string>
+				<key>queryUrl</key>
+				<string>http://www.posten.se/en/Pages/home.aspx</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>瑞典邮政</string>
+				<key>testNum</key>
+				<string>CC193037621SE</string>
+				<key>url</key>
+				<string>http://www.posten.se/en</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>s</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>4008-222-222</string>
+				<key>logoMd5</key>
+				<string>783d6df07f823d3284f27286f80b5ed0</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>盛辉物流</string>
+				<key>number</key>
+				<string>shenghuiwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.shenghui56.com/OrderTrack/WebOrderTrace.aspx</string>
+				<key>reg</key>
+				<string>^[0-9]{9}$</string>
+				<key>regInfo</key>
+				<string>盛辉物流单号由9位数字编码组成</string>
+				<key>shortName</key>
+				<string>盛辉</string>
+				<key>testNum</key>
+				<string>232932889</string>
+				<key>url</key>
+				<string>http://www.shenghui56.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>95543</string>
+				<key>logoMd5</key>
+				<string>717292b533c4b58ceaacf2b029cfe008</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>申通快递</string>
+				<key>number</key>
+				<string>shentong</string>
+				<key>queryUrl</key>
+				<string>http://sto.cn/service.asp</string>
+				<key>reg</key>
+				<string>^[0-9]{12,13}$</string>
+				<key>regInfo</key>
+				<string>申通单号由12位数字组成，常见以268*、368*、58*等开头</string>
+				<key>shortName</key>
+				<string>申通</string>
+				<key>testNum</key>
+				<string>968748667183</string>
+				<key>url</key>
+				<string>http://www.sto.cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>001-877-387-9799</string>
+				<key>logoMd5</key>
+				<string>1e66564e3dffce817c4f2c627bd189ad</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>飞洋快递</string>
+				<key>number</key>
+				<string>shipgce</string>
+				<key>queryUrl</key>
+				<string>http://express.shipgce.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>飞洋快递</string>
+				<key>testNum</key>
+				<string>DD503419068US</string>
+				<key>url</key>
+				<string>http://express.shipgce.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-666-1111</string>
+				<key>logoMd5</key>
+				<string>6c577d0fc4fba3087a55663a47b47e77</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>世运快递</string>
+				<key>number</key>
+				<string>shiyunkuaidi</string>
+				<key>queryUrl</key>
+				<string>http://www.sehoex.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>世运快递</string>
+				<key>testNum</key>
+				<string>200000000000</string>
+				<key>url</key>
+				<string>http://www.sehoex.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>95338</string>
+				<key>logoMd5</key>
+				<string>5b26a0e7d22cb539e1ac39480f5d74db</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>顺丰速运</string>
+				<key>number</key>
+				<string>shunfeng</string>
+				<key>queryUrl</key>
+				<string>http://www.sf-express.com/cn/sc/dynamic_functions/waybill/#search/bill-number</string>
+				<key>reg</key>
+				<string>^[0-9]{12}$</string>
+				<key>regInfo</key>
+				<string>顺丰单号由12位数字组成，常以电话区号后3位开头</string>
+				<key>shortName</key>
+				<string>顺丰</string>
+				<key>testNum</key>
+				<string>305980661496</string>
+				<key>url</key>
+				<string>http://www.sf-express.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-158-9888</string>
+				<key>logoMd5</key>
+				<string>178f13b9919107d23eec5e5b62ff72c6</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>速尔快递</string>
+				<key>number</key>
+				<string>suer</string>
+				<key>queryUrl</key>
+				<string>http://wap.sure56.com/</string>
+				<key>reg</key>
+				<string>^[0-9]{10,12}$</string>
+				<key>regInfo</key>
+				<string>速尔的快递单号由12位数字组成的</string>
+				<key>shortName</key>
+				<string>速尔</string>
+				<key>testNum</key>
+				<string>880120164685</string>
+				<key>url</key>
+				<string>http://www.sure56.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>+41 848 888 888</string>
+				<key>logoMd5</key>
+				<string>cd9899e5d818b8c96a15c48b1c5ebf27</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>瑞士邮政</string>
+				<key>number</key>
+				<string>swisspost</string>
+				<key>queryUrl</key>
+				<string>http://www.swisspost.ch/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>瑞士邮政</string>
+				<key>testNum</key>
+				<string>RU468581905CH</string>
+				<key>url</key>
+				<string>http://www.post.ch/en</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>0351-5225858</string>
+				<key>logoMd5</key>
+				<string>c50b52e94268272bae283928702ba8eb</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>山西红马甲</string>
+				<key>number</key>
+				<string>sxhongmajia</string>
+				<key>queryUrl</key>
+				<string>http://www.hmj.com.cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>红马甲</string>
+				<key>testNum</key>
+				<string>JX11859636</string>
+				<key>url</key>
+				<string>http://www.hmj.com.cn/</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>t</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>400-808-6666</string>
+				<key>logoMd5</key>
+				<string>86062b3ca1775c6bf7844fe6e7347bd0</string>
+				<key>logo_base64</key>
+				<string>iVBORw0KGgoAAAANSUhEUgAAAGgAAABoCAYAAAAdHLWhAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAA2RpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
+NDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEu
+MC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVz
+b3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1N
+Ok9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpGOTFFOENGOTU3NzhFMDExOEFGOUMzRjcxREIz
+OTM1QSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpGMjg4ODUyOEYzMzIxMUUwQjM0OEE3RDZD
+OENBRkJCQyIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpGMjg4ODUyN0YzMzIxMUUwQjM0OEE3
+RDZDOENBRkJCQyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3Mi
+PiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDowRjIxQ0QzODhB
+RUFFMDExODJGOUEwQ0YwRkIyRUFEMiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpGOTFFOENG
+OTU3NzhFMDExOEFGOUMzRjcxREIzOTM1QSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRG
+PiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pi8PH54AAATMSURBVHja7J3tcds4EIbF
+TP6HqcBOBSdXYLqCyBVEriBSATeJJgVYV4HlCqxUYKqCYyqIUoGZCnyAZ3kDrxcEqEhzmtzzzmgk
+gyC+nt3FgpaT4vHxcYSOV69YAgAhAAEIAQgBCEAIQABCAEIAAhACEAIQgBCAAIQAhAAEIAQgACEA
+IQABCAEIAQhACEAAQgBCAAIQAhCA0PHpdVEU//7QfhlV7u2eZTkatdqDTlmTo9IKQMetv1gChNBv
+rOI/T1O+PO17/rUt/xxtE3Ur+Th2r9rVbwb0M5H7vJ76cfevXHnpPlbhNV++p7n5tmfSXze3xrXf
+ZqfZRqMPfuwH4nHhBldLP5/d26fg2sK9PhtjaN09b13Z1H2+UfWbzIXyAO5U8ULefbvXQbkf30rd
+fxeMZ+6LYglVNz/RTM3R69K91j1jHUs7jQnogHBCq/J6ry69kYWs1BhKuecPVf/Elc8UpCcvDLyy
+8za9SN6al/JZt1uK8YyCcYbe1bjr32OA3LWU7jLqrAWkCaizgE3kZmuytzlwvHUZnhNa2yxy64NR
+NjXKOi+cRvroNA/CTKWujQMgL9oXCz/0ceRbNMS5gV8k3E9PfDEwZr8/4MQ64zrJqSeeqRe7kRCm
+tQnmWew5qmijraOAEvqg2+6LpzHrFUgz1c6lfL5Ri7aQPeG74bUnypO6hf0R7DEv6gTeY3nKZSpZ
+MZKWbBaRxGYbRq5wHyuMTqc9LvxR7Q++s685lh12allM57lGknImEwjD3MrVv3J1r0PQrqzIsc6g
+rxfh1mqjZy99+FXvSfVnedDNgPb74nUs/Fgb8yaYdKktTlJkK0aPlRVaemOEsNg46oFz/1UlPfV1
+YiFDVZkdbiNZSV9bTWTSXfl5ZIw5gHSbP3uujZ0x3Kv+f0bOR/7aRQLgtSpbqYSqHQwoliQYoac1
+UvK1u3+eCA1j474mAm5jlYtXlUa4zQEUGuCpccSoIoa0Ds9Hso/VA/enW3VOGu3iQbFTeGmktJ9U
+eY6XVYZRbCMhx/KsOrLwPyL7RNkT4vyiTzJD2620eZ0Z3qw694kz0JlOInKzuA9G2UpCz0SFiDLx
+KKMv7r8IcYYlbjI8I7TyvkTom7yyHu+I988OeEzYDvYgOZVPjFDWumsb41qVSL3N/Ued/rsEYWsk
+CI1x1ll2lqeeuY0yD9t+LpYRbnqMaynX2yBcnkZS+5yMd2sZdo4HfYy5u4DQG+F5DJABIQxNMRC1
+hNMuAWmCMXwNHz6Khd/tku1GwnPVs5jzxP4zNfaf5dCBFeq8kHP28YN7px4kTlTycCXnjdYILTdG
+qFwI6MkOZyxtHFUiozzNfFTT9iQeTQdI1u1cedy5AfdsyNP3Z4DE8v7OvGcZWk/iiybhJMue0HMl
+k5ruMZ6/tUKGcTj1dd4N+RWAai/nX4Z/ZtS7ZHE5WUln0Uu1EfsHoFfiAWVm6LDOSbVYdrUHOHVi
+wetU7N+zdv5uwUF+YRc56zyDOkIIIfR/VyEPByuW4mg0D89Lr4BzVGpH6gsr/HXDcWmtU/6C/4Hr
+uIUHAQgBCEAIQAhAAEIAAhACEAIQgBCAEIAAhAAEIAQgBCAAIQABCAEIAQhACEAIQABCAAIQAhAC
+EIAQgACEAIQA9JvpHwEGAHgCijU6IyetAAAAAElFTkSuQmCC</string>
+				<key>name</key>
+				<string>天地华宇</string>
+				<key>number</key>
+				<string>tiandihuayu</string>
+				<key>queryUrl</key>
+				<string>http://m.hoau.net/waybill.jsp</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>华宇物流查询单号是由8位数字组成</string>
+				<key>shortName</key>
+				<string>华宇</string>
+				<key>testNum</key>
+				<string>F3599351</string>
+				<key>url</key>
+				<string>http://www.hoau.net</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-188-8888</string>
+				<key>logoMd5</key>
+				<string>0d079e5c715c2918372fb65259cba640</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>天天快递</string>
+				<key>number</key>
+				<string>tiantian</string>
+				<key>queryUrl</key>
+				<string>http://www.ttkdex.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>天天单号由12或14位数字组成，常见以6**、5*、00*等开头</string>
+				<key>shortName</key>
+				<string>天天</string>
+				<key>testNum</key>
+				<string>560269603653</string>
+				<key>url</key>
+				<string>http://www.ttkdex.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-990-8816</string>
+				<key>logoMd5</key>
+				<string>92e30df5765ed4738c785dd99823aa33</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>天纵物流</string>
+				<key>number</key>
+				<string>tianzong</string>
+				<key>queryUrl</key>
+				<string>http://www.tianzong56.cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>天纵物流</string>
+				<key>testNum</key>
+				<string>300000000000</string>
+				<key>url</key>
+				<string>http://www.tianzong56.cn/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>800-820-9868</string>
+				<key>logoMd5</key>
+				<string>486f41fe8d88a564ccf7bce22cbfc559</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>TNT</string>
+				<key>number</key>
+				<string>tnt</string>
+				<key>queryUrl</key>
+				<string>http://mexpress.tnt.com/express</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>由9位数字组成的或者省份的首字母+9位数字+WW</string>
+				<key>shortName</key>
+				<string>TNT</string>
+				<key>testNum</key>
+				<string>897313235</string>
+				<key>url</key>
+				<string>http://www.tnt.com.cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string></string>
+				<key>logoMd5</key>
+				<string>9afdee4b2276324b7cf9a807f8d2bf8b</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>TNT-全球件</string>
+				<key>number</key>
+				<string>tnten</string>
+				<key>queryUrl</key>
+				<string>http://mexpress.tnt.com/express</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>TNT-全球件</string>
+				<key>testNum</key>
+				<string>928567507</string>
+				<key>url</key>
+				<string>http://www.tnt.com</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>u</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>024-31515566</string>
+				<key>logoMd5</key>
+				<string>49f52198fb6c556338bd3267f1bda6a2</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>UCS合众速递</string>
+				<key>number</key>
+				<string>ucs</string>
+				<key>queryUrl</key>
+				<string>http://www.ucsus.com</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>UCS</string>
+				<key>testNum</key>
+				<string>TX801752907US</string>
+				<key>url</key>
+				<string>http://www.ucsus.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-820-8388</string>
+				<key>logoMd5</key>
+				<string>e06accac6152ce6777d669581a2d24fa</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>UPS</string>
+				<key>number</key>
+				<string>ups</string>
+				<key>queryUrl</key>
+				<string>https://m.ups.com/mobile/trackhome?loc=zh_CN</string>
+				<key>reg</key>
+				<string>^[A-Za-z0-9]{7,22}$</string>
+				<key>regInfo</key>
+				<string>标准编码为7到20位数之间的数字，或字母+数字</string>
+				<key>shortName</key>
+				<string>UPS</string>
+				<key>testNum</key>
+				<string>1ZWX45890302329500</string>
+				<key>url</key>
+				<string>http://www.ups.com/cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>1-800-742-5877 </string>
+				<key>logoMd5</key>
+				<string>ea34a5816ef360fe56b8de8ecbf2eea4</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>UPS-全球件</string>
+				<key>number</key>
+				<string>upsen</string>
+				<key>queryUrl</key>
+				<string>https://m.ups.com/mobile/trackhome?loc=zh_CN</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>UPS-全球件</string>
+				<key>testNum</key>
+				<string>1Z58R8E50305429381</string>
+				<key>url</key>
+				<string>http://www.ups.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>800-275-8777</string>
+				<key>logoMd5</key>
+				<string>8dd7d9fe76ac45ab50f8383ac7f9d2b4</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>USPS</string>
+				<key>number</key>
+				<string>usps</string>
+				<key>queryUrl</key>
+				<string>http://mobile.usps.com/iphone/iphoneTrackPackage.aspx</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>USPS单号的记录超过一个月会自动清除</string>
+				<key>shortName</key>
+				<string>美国邮政</string>
+				<key>testNum</key>
+				<string>CP292257915CN</string>
+				<key>url</key>
+				<string>https://zh.usps.com</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>v</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>400-600-6888</string>
+				<key>logoMd5</key>
+				<string>7806c590df57e1c8c77a0902860312d7</string>
+				<key>logo_base64</key>
+				<string>iVBORw0KGgoAAAANSUhEUgAAAGgAAABoCAYAAAAdHLWhAAAACXBIWXMAAAsTAAALEwEAmpwYAAAK
+TWlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVN3WJP3Fj7f92UPVkLY8LGXbIEAIiOsCMgQ
+WaIQkgBhhBASQMWFiApWFBURnEhVxILVCkidiOKgKLhnQYqIWotVXDjuH9yntX167+3t+9f7vOec
+5/zOec8PgBESJpHmomoAOVKFPDrYH49PSMTJvYACFUjgBCAQ5svCZwXFAADwA3l4fnSwP/wBr28A
+AgBw1S4kEsfh/4O6UCZXACCRAOAiEucLAZBSAMguVMgUAMgYALBTs2QKAJQAAGx5fEIiAKoNAOz0
+ST4FANipk9wXANiiHKkIAI0BAJkoRyQCQLsAYFWBUiwCwMIAoKxAIi4EwK4BgFm2MkcCgL0FAHaO
+WJAPQGAAgJlCLMwAIDgCAEMeE80DIEwDoDDSv+CpX3CFuEgBAMDLlc2XS9IzFLiV0Bp38vDg4iHi
+wmyxQmEXKRBmCeQinJebIxNI5wNMzgwAABr50cH+OD+Q5+bk4eZm52zv9MWi/mvwbyI+IfHf/ryM
+AgQAEE7P79pf5eXWA3DHAbB1v2upWwDaVgBo3/ldM9sJoFoK0Hr5i3k4/EAenqFQyDwdHAoLC+0l
+YqG9MOOLPv8z4W/gi372/EAe/tt68ABxmkCZrcCjg/1xYW52rlKO58sEQjFu9+cj/seFf/2OKdHi
+NLFcLBWK8ViJuFAiTcd5uVKRRCHJleIS6X8y8R+W/QmTdw0ArIZPwE62B7XLbMB+7gECiw5Y0nYA
+QH7zLYwaC5EAEGc0Mnn3AACTv/mPQCsBAM2XpOMAALzoGFyolBdMxggAAESggSqwQQcMwRSswA6c
+wR28wBcCYQZEQAwkwDwQQgbkgBwKoRiWQRlUwDrYBLWwAxqgEZrhELTBMTgN5+ASXIHrcBcGYBie
+whi8hgkEQcgIE2EhOogRYo7YIs4IF5mOBCJhSDSSgKQg6YgUUSLFyHKkAqlCapFdSCPyLXIUOY1c
+QPqQ28ggMor8irxHMZSBslED1AJ1QLmoHxqKxqBz0XQ0D12AlqJr0Rq0Hj2AtqKn0UvodXQAfYqO
+Y4DRMQ5mjNlhXIyHRWCJWBomxxZj5Vg1Vo81Yx1YN3YVG8CeYe8IJAKLgBPsCF6EEMJsgpCQR1hM
+WEOoJewjtBK6CFcJg4Qxwicik6hPtCV6EvnEeGI6sZBYRqwm7iEeIZ4lXicOE1+TSCQOyZLkTgoh
+JZAySQtJa0jbSC2kU6Q+0hBpnEwm65Btyd7kCLKArCCXkbeQD5BPkvvJw+S3FDrFiOJMCaIkUqSU
+Eko1ZT/lBKWfMkKZoKpRzame1AiqiDqfWkltoHZQL1OHqRM0dZolzZsWQ8ukLaPV0JppZ2n3aC/p
+dLoJ3YMeRZfQl9Jr6Afp5+mD9HcMDYYNg8dIYigZaxl7GacYtxkvmUymBdOXmchUMNcyG5lnmA+Y
+b1VYKvYqfBWRyhKVOpVWlX6V56pUVXNVP9V5qgtUq1UPq15WfaZGVbNQ46kJ1Bar1akdVbupNq7O
+UndSj1DPUV+jvl/9gvpjDbKGhUaghkijVGO3xhmNIRbGMmXxWELWclYD6yxrmE1iW7L57Ex2Bfsb
+di97TFNDc6pmrGaRZp3mcc0BDsax4PA52ZxKziHODc57LQMtPy2x1mqtZq1+rTfaetq+2mLtcu0W
+7eva73VwnUCdLJ31Om0693UJuja6UbqFutt1z+o+02PreekJ9cr1Dund0Uf1bfSj9Rfq79bv0R83
+MDQINpAZbDE4Y/DMkGPoa5hpuNHwhOGoEctoupHEaKPRSaMnuCbuh2fjNXgXPmasbxxirDTeZdxr
+PGFiaTLbpMSkxeS+Kc2Ua5pmutG003TMzMgs3KzYrMnsjjnVnGueYb7ZvNv8jYWlRZzFSos2i8eW
+2pZ8ywWWTZb3rJhWPlZ5VvVW16xJ1lzrLOtt1ldsUBtXmwybOpvLtqitm63Edptt3xTiFI8p0in1
+U27aMez87ArsmuwG7Tn2YfYl9m32zx3MHBId1jt0O3xydHXMdmxwvOuk4TTDqcSpw+lXZxtnoXOd
+8zUXpkuQyxKXdpcXU22niqdun3rLleUa7rrStdP1o5u7m9yt2W3U3cw9xX2r+00umxvJXcM970H0
+8PdY4nHM452nm6fC85DnL152Xlle+70eT7OcJp7WMG3I28Rb4L3Le2A6Pj1l+s7pAz7GPgKfep+H
+vqa+It89viN+1n6Zfgf8nvs7+sv9j/i/4XnyFvFOBWABwQHlAb2BGoGzA2sDHwSZBKUHNQWNBbsG
+Lww+FUIMCQ1ZH3KTb8AX8hv5YzPcZyya0RXKCJ0VWhv6MMwmTB7WEY6GzwjfEH5vpvlM6cy2CIjg
+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</string>
+				<key>name</key>
+				<string>凡客订单</string>
+				<key>number</key>
+				<string>vancl</string>
+				<key>queryUrl</key>
+				<string>http://www.vancl.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>凡客的订单一般有字母和数字组成</string>
+				<key>shortName</key>
+				<string>凡客</string>
+				<key>testNum</key>
+				<string>763700082346</string>
+				<key>url</key>
+				<string>http://www.vancl.com/</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>w</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>4001-156-561</string>
+				<key>logoMd5</key>
+				<string>aa596d565168d109dc659c03efc8227e</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>万家物流</string>
+				<key>number</key>
+				<string>wanjiawuliu</string>
+				<key>queryUrl</key>
+				<string></string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>万家物流单号查询编码通常是由城市编码(英文)+7位数字组成</string>
+				<key>shortName</key>
+				<string>万家</string>
+				<key>testNum</key>
+				<string>SJ0407976</string>
+				<key>url</key>
+				<string>http://www.manco-logistics.com/</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>x</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>4008-000-222</string>
+				<key>logoMd5</key>
+				<string>0383d5b3442cd33c6118a750e34f2cc7</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>新邦物流</string>
+				<key>number</key>
+				<string>xinbangwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.xbwl.cn/ZhuiZong.aspx</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>新邦物流查询单号一般0开头由8位纯数字组成的</string>
+				<key>shortName</key>
+				<string>新邦</string>
+				<key>testNum</key>
+				<string>22382186</string>
+				<key>url</key>
+				<string>http://www.xbwl.cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-830-6333</string>
+				<key>logoMd5</key>
+				<string>009eca03f340428b212e836fa33db291</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>信丰物流</string>
+				<key>number</key>
+				<string>xinfengwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.xf-express.com.cn/</string>
+				<key>reg</key>
+				<string>^[0-9]{12}$</string>
+				<key>regInfo</key>
+				<string>信丰快递正确的单号由12位纯数字组成，常见已139*开头</string>
+				<key>shortName</key>
+				<string>信丰</string>
+				<key>testNum</key>
+				<string>137682752976</string>
+				<key>url</key>
+				<string>http://www.xf-express.com.cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>086-400-082-2200</string>
+				<key>logoMd5</key>
+				<string>0bb1e6d3efbf99c1add6d13ada26dfb4</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>贝海国际速递</string>
+				<key>number</key>
+				<string>xlobo</string>
+				<key>queryUrl</key>
+				<string>http://www.xlobo.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>贝海速递</string>
+				<key>testNum</key>
+				<string>DB983218742US</string>
+				<key>url</key>
+				<string>http://www.xlobo.com/</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>y</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>400-628-0018</string>
+				<key>logoMd5</key>
+				<string>a3878ffa5a900511c086e3382498e4c5</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>亚风速递</string>
+				<key>number</key>
+				<string>yafengsudi</string>
+				<key>queryUrl</key>
+				<string>http://www.airfex.net/</string>
+				<key>reg</key>
+				<string>^[A-Za-z0-9]{10,13}$</string>
+				<key>regInfo</key>
+				<string>亚风正确的单号由10位数字组成或以字母开头13位组成，常见已常见以59开头或BAT开头</string>
+				<key>shortName</key>
+				<string>亚风</string>
+				<key>testNum</key>
+				<string>50000446105</string>
+				<key>url</key>
+				<string>http://www.broad-asia.net</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string></string>
+				<key>logoMd5</key>
+				<string>590b1cc3fe0950002a853b2176953cd4</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>黑猫雅玛多</string>
+				<key>number</key>
+				<string>yamato</string>
+				<key>queryUrl</key>
+				<string></string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>黑猫雅玛多</string>
+				<key>testNum</key>
+				<string>410569991366</string>
+				<key>url</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>0755-88250666</string>
+				<key>logoMd5</key>
+				<string>32150534cfb59a1e78849b5030878606</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>顺捷丰达</string>
+				<key>number</key>
+				<string>yinjiesudi</string>
+				<key>queryUrl</key>
+				<string>http://www.sjfd-express.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>银捷速递的单号一般由9-12位的数字组成，亚马逊的单号以a开头</string>
+				<key>shortName</key>
+				<string>顺捷丰达</string>
+				<key>testNum</key>
+				<string>D150105369641</string>
+				<key>url</key>
+				<string>http://www.china-fec.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-1111-119</string>
+				<key>logoMd5</key>
+				<string>4e26d8fa43db614527bed5aeeab2e5e4</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>优速快递</string>
+				<key>number</key>
+				<string>youshuwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.uc56.com/Chinese/OrderTracking.aspx</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>优速单号由12位数字组成，LP开头的不是优速快递单号</string>
+				<key>shortName</key>
+				<string>优速</string>
+				<key>testNum</key>
+				<string>510140900808</string>
+				<key>url</key>
+				<string>http://www.uc56.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>11185</string>
+				<key>logoMd5</key>
+				<string>9a8a033946456e4897841522ed1d61ca</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>邮政国际邮件</string>
+				<key>number</key>
+				<string>youzhengguoji</string>
+				<key>queryUrl</key>
+				<string>http://intmail.11185.cn/</string>
+				<key>reg</key>
+				<string>^[a-z-A-Z]{2}[0-9]{9}[a-z-A-Z]{2}$</string>
+				<key>regInfo</key>
+				<string>由13位字母和数字组成，开头和结尾是字母，中间是数字 </string>
+				<key>shortName</key>
+				<string>邮政国际</string>
+				<key>testNum</key>
+				<string>RD187040048CN</string>
+				<key>url</key>
+				<string>http://intmail.183.com.cn/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>11185</string>
+				<key>logoMd5</key>
+				<string>9a8a033946456e4897841522ed1d61ca</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>邮政国内小包</string>
+				<key>number</key>
+				<string>youzhengguonei</string>
+				<key>queryUrl</key>
+				<string>http://yjcx.chinapost.com.cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>邮政单号以字母开头+11位数字，常见KA、SB等开头</string>
+				<key>shortName</key>
+				<string>邮政国内</string>
+				<key>testNum</key>
+				<string>XQ48527853544</string>
+				<key>url</key>
+				<string>http://yjcx.chinapost.com.cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string></string>
+				<key>logoMd5</key>
+				<string>cdedf5e00dc37861d5d3673b9ee29477</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>运通中港速运</string>
+				<key>number</key>
+				<string>ytkd</string>
+				<key>queryUrl</key>
+				<string>http://www.ytkd168.com/Query.asp</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>运通</string>
+				<key>testNum</key>
+				<string>653080436</string>
+				<key>url</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-820-1646</string>
+				<key>logoMd5</key>
+				<string>2d17b295bd6e3a51cd87323747258f89</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>远成物流</string>
+				<key>number</key>
+				<string>yuanchengwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.ycgwl.com/service_cha.asp</string>
+				<key>reg</key>
+				<string>^[A-Za-z0-9]{5,10}$</string>
+				<key>regInfo</key>
+				<string>远成物流查询单号一般是以00开头，由最多10位的数字组成</string>
+				<key>shortName</key>
+				<string>远成</string>
+				<key>testNum</key>
+				<string>0014849801</string>
+				<key>url</key>
+				<string>http://www.ycgwl.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>021-69777888</string>
+				<key>logoMd5</key>
+				<string>c0da5a6531c9accb749a0ae3ca59e515</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>圆通速递</string>
+				<key>number</key>
+				<string>yuantong</string>
+				<key>queryUrl</key>
+				<string>http://www.yto.net.cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>圆通单号由10位字母数字组成，常见以6*、8*及V*等开头</string>
+				<key>shortName</key>
+				<string>圆通</string>
+				<key>testNum</key>
+				<string>200093247451</string>
+				<key>url</key>
+				<string>http://www.yto.net.cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>852-23909969</string>
+				<key>logoMd5</key>
+				<string>fb750ffd26399f7b252d5b8fca27cccf</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>越丰物流</string>
+				<key>number</key>
+				<string>yuefengwuliu</string>
+				<key>queryUrl</key>
+				<string>http://yfexpress.com.hk/track/</string>
+				<key>reg</key>
+				<string>^[0-9]{10}$</string>
+				<key>regInfo</key>
+				<string>常见的越丰物流查询单号编码由10纯数字组成，常见以80*开头</string>
+				<key>shortName</key>
+				<string>越丰</string>
+				<key>testNum</key>
+				<string>8044103908</string>
+				<key>url</key>
+				<string>http://www.yfexpress.com.hk</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-821-6789</string>
+				<key>logoMd5</key>
+				<string>6b9ef3d20e5ce0a00640dfa8e904348c</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>韵达快递</string>
+				<key>number</key>
+				<string>yunda</string>
+				<key>queryUrl</key>
+				<string>http://www.yundaex.com/</string>
+				<key>reg</key>
+				<string>^[0-9]{13}$</string>
+				<key>regInfo</key>
+				<string>韵达单号由13位数字组成</string>
+				<key>shortName</key>
+				<string>韵达</string>
+				<key>testNum</key>
+				<string>1000506131741</string>
+				<key>url</key>
+				<string>http://www.yundaex.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>888-408-3332</string>
+				<key>logoMd5</key>
+				<string>1c6893166f8ddef138a91accb01289e4</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>美国韵达</string>
+				<key>number</key>
+				<string>yundaexus</string>
+				<key>queryUrl</key>
+				<string>http://www.yundaex.us/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>美国韵达</string>
+				<key>testNum</key>
+				<string></string>
+				<key>url</key>
+				<string>http://www.yundaex.us/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>0769-81156999</string>
+				<key>logoMd5</key>
+				<string>ab1d8b959cfca133cccf2cda2b5d1452</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>运通中港</string>
+				<key>number</key>
+				<string>yuntongkuaidi</string>
+				<key>queryUrl</key>
+				<string>http://www.ytkd168.com/Query.asp</string>
+				<key>reg</key>
+				<string>^[0-9]{9}$</string>
+				<key>regInfo</key>
+				<string>运通通常以61*开头的9位单号</string>
+				<key>shortName</key>
+				<string>运通</string>
+				<key>testNum</key>
+				<string>652746649</string>
+				<key>url</key>
+				<string>http://www.ytkd168.com</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>0371-66368798</string>
+				<key>logoMd5</key>
+				<string>1ce1aef39cfed7e84021047cfad64a28</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>宇鑫物流</string>
+				<key>number</key>
+				<string>yuxinwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.yx56.cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>宇鑫</string>
+				<key>testNum</key>
+				<string>2015033508</string>
+				<key>url</key>
+				<string>http://www.yx56.cn/</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>index</key>
+		<string>z</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>contact</key>
+				<string>4008-456-789 </string>
+				<key>logoMd5</key>
+				<string>2e37b0b40efa29808800bf886818dc4d</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>增益速递</string>
+				<key>number</key>
+				<string>zengyisudi</string>
+				<key>queryUrl</key>
+				<string>http://www.zeny-express.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>增益</string>
+				<key>testNum</key>
+				<string>500037955943</string>
+				<key>url</key>
+				<string>http://www.zeny-express.com/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-6789-000</string>
+				<key>logoMd5</key>
+				<string>4414fd8e547dc3404339fccb2ded2473</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>宅急送</string>
+				<key>number</key>
+				<string>zhaijisong</string>
+				<key>queryUrl</key>
+				<string>http://wap.zjs.com.cn/Index.aspx</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>宅急送单号由10位数字组成，常见以7**、6**、5**等开头</string>
+				<key>shortName</key>
+				<string>宅急送</string>
+				<key>testNum</key>
+				<string>3495769653</string>
+				<key>url</key>
+				<string>http://www.zjs.com.cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-105-6056</string>
+				<key>logoMd5</key>
+				<string>1f02d08c7773c4e1c721c352ac967575</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>芝麻开门</string>
+				<key>number</key>
+				<string>zhimakaimen</string>
+				<key>queryUrl</key>
+				<string>http://www.zmkmex.com/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>芝麻开门的单号由数字组成</string>
+				<key>shortName</key>
+				<string>芝麻开门</string>
+				<key>testNum</key>
+				<string>2994136938581</string>
+				<key>url</key>
+				<string>http://www.zmkmex.com/ </string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-0375-888</string>
+				<key>logoMd5</key>
+				<string>fcfd588cb60fa9b9c94acc2601388e79</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>中睿速递</string>
+				<key>number</key>
+				<string>zhongruisudi</string>
+				<key>queryUrl</key>
+				<string>http://www.zorel.cn/</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string></string>
+				<key>shortName</key>
+				<string>中睿</string>
+				<key>testNum</key>
+				<string>667329150</string>
+				<key>url</key>
+				<string>http://www.zorel.cn/</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>95572</string>
+				<key>logoMd5</key>
+				<string>44ec430fe53d9aa79541332534830a43</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>中铁快运</string>
+				<key>number</key>
+				<string>zhongtiewuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.cre.cn/jsp/hwcx/cxh_new.jsp</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>一般是由字母K或B开头，共14位字母与数字组合</string>
+				<key>shortName</key>
+				<string>中铁快运</string>
+				<key>testNum</key>
+				<string>K26110040436</string>
+				<key>url</key>
+				<string>http://www.cre.cn </string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-827-0270</string>
+				<key>logoMd5</key>
+				<string>db1292f0b505aa2a5165fcfcc2912e62</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>中通速递</string>
+				<key>number</key>
+				<string>zhongtong</string>
+				<key>queryUrl</key>
+				<string>http://www.zto.cn/m/</string>
+				<key>reg</key>
+				<string>^[0-9]{12}$</string>
+				<key>regInfo</key>
+				<string>中通单号由12位数字组成，常见以2008**、6**、010等开头</string>
+				<key>shortName</key>
+				<string>中通</string>
+				<key>testNum</key>
+				<string>761868316586</string>
+				<key>url</key>
+				<string>http://www.zto.cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>11183</string>
+				<key>logoMd5</key>
+				<string>77d5bebf755dbd189caeda3fbc2f5094</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>中邮物流</string>
+				<key>number</key>
+				<string>zhongyouwuliu</string>
+				<key>queryUrl</key>
+				<string>http://www.11183.com.cn/ems/logistics/search</string>
+				<key>reg</key>
+				<string>^[A-Za-z0-9]{8,20}$</string>
+				<key>regInfo</key>
+				<string>一般是以A或E开头，字母+数字组成，查询时CNPL无需输入</string>
+				<key>shortName</key>
+				<string>中邮</string>
+				<key>testNum</key>
+				<string>AA26003872999</string>
+				<key>url</key>
+				<string>http://www.cnpl.com.cn</string>
+			</dict>
+			<dict>
+				<key>contact</key>
+				<string>400-000-5566</string>
+				<key>logoMd5</key>
+				<string>4d9328ef692e0e4e93ed6e724d0fa8ff</string>
+				<key>logo_base64</key>
+				<string></string>
+				<key>name</key>
+				<string>中铁物流</string>
+				<key>number</key>
+				<string>ztky</string>
+				<key>queryUrl</key>
+				<string>http://www.ztky.com/custom/kkyy.aspx</string>
+				<key>reg</key>
+				<string></string>
+				<key>regInfo</key>
+				<string>中铁物流的单号一般由字母或数字组成</string>
+				<key>shortName</key>
+				<string>中铁物流</string>
+				<key>testNum</key>
+				<string>6082439930</string>
+				<key>url</key>
+				<string>http://www.ztky.com </string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

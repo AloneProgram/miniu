@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6751" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="LoginIndexView">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="LogindexLogo.png" translatesAutoresizingMaskIntoConstraints="NO" id="EII-Br-oby">
+                    <rect key="frame" x="87" y="78" width="147" height="129"/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OBz-mh-ap0">
+                    <rect key="frame" x="60" y="382" width="201" height="45"/>
+                    <state key="normal" backgroundImage="MobileLogin.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="MobileLoginAction:" destination="iN0-l3-epB" eventType="touchDown" id="FL2-QT-e3C"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ctC-zH-G50">
+                    <rect key="frame" x="60" y="317" width="201" height="45"/>
+                    <state key="normal" backgroundImage="WXLogin.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="WXLoginAction:" destination="iN0-l3-epB" eventType="touchDown" id="oP0-tq-Xv5"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <simulatedStatusBarMetrics key="simulatedStatusBarMetrics" statusBarStyle="lightContent"/>
+            <connections>
+                <outlet property="MobileLoginButton" destination="OBz-mh-ap0" id="GMO-zQ-BkE"/>
+                <outlet property="WXloginButton" destination="ctC-zH-G50" id="wEo-QI-r4h"/>
+            </connections>
+            <point key="canvasLocation" x="296" y="286"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="LogindexLogo.png" width="147" height="129"/>
+        <image name="MobileLogin.png" width="201" height="44"/>
+        <image name="WXLogin.png" width="201" height="44"/>
+    </resources>
+</document>

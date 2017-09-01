@@ -1,0 +1,25 @@
+//
+//  miniu-Prefix.pch.pch
+//  miniu
+//
+//  Created by SimMan on 4/14/15.
+//  Copyright (c) 2015 SimMan. All rights reserved.
+//
+
+
+#import <Availability.h>
+
+#ifndef __IPHONE_6_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+// ---------------------------------- 宏定义项  --------------------------
+#import "3rdparty.h"
+#import "Notification.h"
+#import "SysSetting.h"
+#import "ServerApi.h"
+
+#endif
